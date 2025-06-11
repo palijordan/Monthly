@@ -1,0 +1,779 @@
+mes,site,Medio_de_pago,Incoming_amt,Incoming_qty,Status
+Abril,MCO,debit card,315102.53,4049,Rej. Blacklist
+Mayo,MCO,credit card,600394.43,6030,Rej. by User Error
+Abril,MCO,bank transfer,836916.15,2646,Rej. by PF
+Abril,MCO,credit card,462893.05,4024,Rej. by User Error
+Abril,MCO,debit card,1132699.6,10361,Insufficient Amount
+fuera_de_rango,MCO,credit card,81818.99,984,Rej. by Risk Bank - App. by PF
+Mayo,MCO,bank transfer,666186.06,17276,Cancelled
+Mayo,MCO,credit card,108546.65,1185,Rej. by Bank Other
+fuera_de_rango,MCO,bank transfer,84111.72,116,Rej. by PF
+fuera_de_rango,MCO,account_money,2117.1,193,Cancelled
+Mayo,MCO,debit card,1367437.33,11511,Insufficient Amount
+Abril,MCO,ticket,2677425.09,58844,Approved
+fuera_de_rango,MCO,debit card,23507.44,86,Rej. by PF
+Abril,MCO,credit card,1859878.01,8106,Rej. by PF
+Mayo,MCO,bank transfer,4068223.57,81168,Rej. by Bank Other
+Abril,MCO,ticket,22098.52,126,Rej. by PF
+fuera_de_rango,MCO,credit card,1708264.61,34924,Approved
+fuera_de_rango,MCO,credit card,44767.85,588,Rej. Blacklist
+Abril,MCO,bank transfer,14027596.92,434482,Approved
+Abril,MCO,debit card,372003.42,2465,Rej. by User Error
+Mayo,MCO,credit card,1405178.92,16552,Rej. by Risk Bank - App. by PF
+Mayo,MCO,ticket,2107899.15,37479,Cancelled
+Mayo,MCO,account_money,41960.3,2659,Cancelled
+Mayo,MCO,credit card,1848831.65,7080,Rej. by PF
+Abril,MCO,bank transfer,3698911.92,75576,Rej. by Bank Other
+Mayo,MCO,debit card,17333.35,246,Rej. by Bank Other
+Mayo,MCO,account_money,5373.9,62,Rej. by PF
+fuera_de_rango,MCO,debit card,49453.13,710,Rej. by Risk Bank - App. by PF
+Mayo,MCO,credit card,28187058.18,581710,Approved
+fuera_de_rango,MCO,ticket,135034.72,2595,Cancelled
+Mayo,MCO,debit card,479574.51,3924,Rej. by User Error
+Abril,MCO,account_money,32412.06,2574,Cancelled
+Abril,MCO,credit card,24664370.89,532660,Approved
+Mayo,MCO,bank transfer,15390241.9,468952,Approved
+fuera_de_rango,MCO,ticket,51125.39,991,Pending
+Mayo,MCO,account_money,1594536.22,57235,Approved
+fuera_de_rango,MCO,bank transfer,1017525.51,31284,Approved
+Abril,MCO,debit card,619227.68,8687,Rej. by Risk Bank - App. by PF
+Mayo,MCO,credit card,740378.7,8303,Rej. Blacklist
+Abril,MCO,debit card,388260.2,1528,Rej. by PF
+Abril,MCO,credit card,42079.35,551,Rej. by Bank Other
+fuera_de_rango,MCO,credit card,110263.46,1075,Insufficient Amount
+Abril,MCO,debit card,4223.19,9,Rej. by Risk Bank - Rej. by PF
+Abril,MCO,credit card,55080.07,482,Cancelled
+fuera_de_rango,MCO,debit card,25412.88,220,Rej. by User Error
+Mayo,MCO,credit card,62018.61,540,Cancelled
+fuera_de_rango,MCO,account_money,96256.94,3518,Approved
+fuera_de_rango,MCO,debit card,6094.43,22,Cancelled
+Mayo,MCO,credit card,1639955.47,16942,Insufficient Amount
+Mayo,MCO,debit card,628772.09,8965,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MCO,debit card,745342.87,19965,Approved
+fuera_de_rango,MCO,credit card,5008.5,54,Rej. by Bank Other
+Abril,MCO,credit card,1187283.15,15123,Rej. by Risk Bank - App. by PF
+Abril,MCO,debit card,6195.24,93,Rej. by Bank Other
+Mayo,MCO,debit card,441245.22,1388,Rej. by PF
+Abril,MCO,debit card,10299224.28,274812,Approved
+fuera_de_rango,MCO,debit card,117.56,4,Rej. by Bank Other
+fuera_de_rango,MCO,bank transfer,48890.04,1273,Cancelled
+Mayo,MCO,debit card,261838.07,2574,Rej. Blacklist
+fuera_de_rango,MCO,credit card,82.35,2,Rej. by Risk Bank - Rej. by PF
+Mayo,MCO,ticket,2805876.14,59542,Approved
+Mayo,MCO,debit card,28586.13,264,Cancelled
+fuera_de_rango,MCO,ticket,173732.67,3688,Approved
+fuera_de_rango,MCO,credit card,3180.15,19,Cancelled
+Abril,MCO,bank transfer,696690.22,18389,Cancelled
+Mayo,MCO,prepaid_card,1169.07,2,Rej. by Risk Bank - Rej. by PF
+Mayo,MCO,prepaid_card,725.28,8,Rej. by Risk Bank - App. by PF
+Mayo,MCO,credit card,84577.46,182,Rej. by Risk Bank - Rej. by PF
+Mayo,MCO,ticket,609917.92,11615,Pending
+Mayo,MCO,debit card,11565686.01,294929,Approved
+Mayo,MCO,prepaid_card,28.55,2,Rej. by User Error
+Abril,MCO,credit card,1458954.42,15713,Insufficient Amount
+Abril,MCO,account_money,1442205.41,54639,Approved
+Abril,MCO,debit card,37597.67,348,Cancelled
+fuera_de_rango,MCO,debit card,11.08,1,Rej. by Risk Bank - Rej. by PF
+Mayo,MCO,ticket,38671.83,164,Rej. by PF
+fuera_de_rango,MCO,credit card,35634.78,320,Rej. by User Error
+fuera_de_rango,MCO,debit card,86168.92,724,Insufficient Amount
+Abril,MCO,account_money,80319.65,89,Rej. by PF
+fuera_de_rango,MCO,account_money,149.64,5,Rej. by PF
+Abril,MCO,ticket,2577722.58,48834,Cancelled
+Mayo,MCO,bank transfer,1189608.29,1981,Rej. by PF
+fuera_de_rango,MCO,ticket,632.12,7,Rej. by PF
+Abril,MCO,credit card,31607.92,88,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MCO,bank transfer,284315.38,5718,Rej. by Bank Other
+fuera_de_rango,MCO,credit card,115744.08,438,Rej. by PF
+Mayo,MCO,prepaid_card,467.92,22,Approved
+fuera_de_rango,MCO,debit card,17987.32,274,Rej. Blacklist
+Abril,MCO,credit card,668118.61,9365,Rej. Blacklist
+Mayo,MCO,debit card,6264.38,14,Rej. by Risk Bank - Rej. by PF
+Mayo,MEC,credit card,8302.56,95,Rej. by User Error
+Mayo,MEC,credit card,20951.94,150,Insufficient Amount
+Mayo,MEC,debit card,15339.16,218,Rej. by Risk Bank - App. by PF
+Mayo,MEC,credit card,125,1,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MEC,credit card,1093.5,8,Insufficient Amount
+Abril,MEC,credit card,16835.72,126,Rej. by User Error
+fuera_de_rango,MEC,debit card,10541.57,237,Approved
+Abril,MEC,ticket,3734.8,38,Approved
+Abril,MEC,account_money,4.1,1,Rej. by PF
+Abril,MEC,credit card,223278.15,3107,Approved
+Abril,MEC,account_money,2407.73,94,Approved
+fuera_de_rango,MEC,debit card,4073.79,14,Insufficient Amount
+Mayo,MEC,debit card,5443.34,92,Rej. by User Error
+Abril,MEC,debit card,187163.6,4288,Approved
+Mayo,MEC,debit card,44422.41,321,Insufficient Amount
+fuera_de_rango,MEC,ticket,49.99,1,Approved
+fuera_de_rango,MEC,credit card,8345,145,Approved
+fuera_de_rango,MEC,account_money,296.31,4,Approved
+Abril,MEC,credit card,3629.92,15,Cancelled
+Abril,MEC,account_money,339.3,33,Cancelled
+Mayo,MEC,credit card,4535.13,30,Rej. Blacklist
+Abril,MEC,credit card,23037.86,178,Insufficient Amount
+Abril,MEC,debit card,6070.78,100,Rej. by Bank Other
+Mayo,MEC,credit card,3559.97,33,Rej. by Bank Other
+fuera_de_rango,MEC,debit card,118.15,4,Rej. by User Error
+fuera_de_rango,MEC,debit card,9272.28,26,Rej. by PF
+fuera_de_rango,MEC,credit card,74.48,3,Rej. by Bank Other
+fuera_de_rango,MEC,credit card,9053.44,24,Rej. by PF
+Abril,MEC,credit card,15464.68,178,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MEC,credit card,1487.8,13,Rej. by Risk Bank - App. by PF
+Mayo,MEC,debit card,191257.58,4201,Approved
+Mayo,MEC,credit card,40681.35,371,Rej. by Risk Bank - App. by PF
+Mayo,MEC,credit card,184657.06,630,Rej. by PF
+Abril,MEC,credit card,171750.98,574,Rej. by PF
+Mayo,MEC,debit card,1633.04,10,Cancelled
+Abril,MEC,credit card,5090.98,31,Rej. by Bank Other
+Mayo,MEC,credit card,199553.49,2698,Approved
+Abril,MEC,debit card,9735.3,144,Rej. by Risk Bank - App. by PF
+Mayo,MEC,debit card,6653.7,44,Rej. Blacklist
+Mayo,MEC,ticket,11538.55,49,Cancelled
+fuera_de_rango,MEC,credit card,220.9,4,Rej. by User Error
+Mayo,MEC,debit card,10898.52,96,Rej. by Bank Other
+Mayo,MEC,ticket,220.82,7,Approved
+Mayo,MEC,debit card,161997.78,591,Rej. by PF
+Abril,MEC,debit card,3732.88,13,Cancelled
+Mayo,MEC,credit card,2374.16,8,Cancelled
+Abril,MEC,debit card,36195.68,294,Insufficient Amount
+fuera_de_rango,MEC,debit card,491.88,6,Rej. by Risk Bank - App. by PF
+Mayo,MEC,account_money,2318.68,73,Approved
+Abril,MEC,debit card,158115.93,605,Rej. by PF
+fuera_de_rango,MEC,ticket,4549.13,16,Cancelled
+Abril,MEC,ticket,111559.59,362,Cancelled
+Mayo,MEC,account_money,349.29,22,Cancelled
+fuera_de_rango,MEC,debit card,139.63,6,Rej. by Bank Other
+Abril,MEC,credit card,1593.63,26,Rej. Blacklist
+fuera_de_rango,MEC,debit card,100.23,4,Rej. Blacklist
+Abril,MEC,debit card,3846.98,54,Rej. Blacklist
+Abril,MEC,debit card,5498.87,74,Rej. by User Error
+Abril,MLA,bank transfer,3091667.34,30474,Insufficient Amount
+Mayo,MLA,debit card,294019.91,4229,Rej. Blacklist
+Abril,MLA,credit card,31742476.79,203039,Rej. by Risk Bank - App. by PF
+Mayo,MLA,credit card,117738973.66,546724,Insufficient Amount
+fuera_de_rango,MLA,prepaid_card,284686.37,2180,Insufficient Amount
+Abril,MLA,ticket,13097286.51,147572,Approved
+Abril,MLA,ticket,11174700.74,130445,Cancelled
+Abril,MLA,debit card,4363166.7,24988,Rej. by PF
+Abril,MLA,bank transfer,6515885.44,115379,Approved
+Abril,MLA,prepaid_card,65336.26,707,Rej. by Bank Other
+Abril,MLA,prepaid_card,12711236.82,229945,Approved
+Mayo,MLA,ticket,14402340.19,164740,Approved
+fuera_de_rango,MLA,bank transfer,649236.6,12700,Approved
+Mayo,MLA,credit card,38386.13,199,Rej. by Risk Bank - Rej. by PF
+Mayo,MLA,prepaid_card,81038.07,805,Rej. by Bank Other
+Abril,MLA,debit card,849195.66,11148,Rej. by Bank Other
+fuera_de_rango,MLA,account_money,14454890.99,288461,Approved
+Mayo,MLA,digital_currency,228.95,4,Rej. by User Error
+Abril,MLA,debit card,15697.7,120,Rej. by Risk Bank - Rej. by PF
+Mayo,MLA,account_money,1658026.67,38433,Cancelled
+Abril,MLA,account_money,45529.62,1042,Rej. by PF
+fuera_de_rango,MLA,ticket,169989.23,2289,Pending
+Abril,MLA,credit card,5783230.3,45669,Rej. Blacklist
+fuera_de_rango,MLA,prepaid_card,4486.84,44,Rej. by Bank Other
+Abril,MLA,prepaid_card,465410.91,4483,Rej. by User Error
+Mayo,MLA,prepaid_card,621497.2,2750,Rej. by PF
+Abril,MLA,digital_currency,59737.16,1411,Rej. by PF
+Mayo,MLA,bank transfer,3235547.79,35362,Rej. by Bank Other
+Abril,MLA,prepaid_card,3573520.33,29435,Insufficient Amount
+fuera_de_rango,MLA,digital_currency,2317873.34,48474,Approved
+Abril,MLA,bank transfer,303.79,24,Rej. by User Error
+fuera_de_rango,MLA,account_money,3884.2,65,Rej. by PF
+Mayo,MLA,digital_currency,57924.14,1248,Rej. by PF
+fuera_de_rango,MLA,credit card,1276787.27,8696,Rej. by User Error
+Mayo,MLA,credit card,7284542.57,55771,Rej. Blacklist
+Abril,MLA,debit card,323407.99,4712,Rej. Blacklist
+Mayo,MLA,credit card,19702517.13,75547,Rej. by PF
+Abril,MLA,prepaid_card,596157.79,2591,Rej. by PF
+Abril,MLA,prepaid_card,105177.71,1270,Cancelled
+Mayo,MLA,bank transfer,9031414.04,82206,Insufficient Amount
+fuera_de_rango,MLA,debit card,253718.14,2083,Rej. by Risk Bank - App. by PF
+Abril,MLA,account_money,2050.08,188,Rej. by User Error
+fuera_de_rango,MLA,credit card,5789333.03,29248,Insufficient Amount
+Mayo,MLA,debit card,12293138.29,127648,Insufficient Amount
+Mayo,MLA,ticket,2132224.89,27499,Pending
+fuera_de_rango,MLA,prepaid_card,3342.28,65,Cancelled
+fuera_de_rango,MLA,debit card,279543.11,3281,Rej. by User Error
+Mayo,MLA,debit card,3504106.82,33459,Rej. by Risk Bank - App. by PF
+Abril,MLA,debit card,88369.72,1043,Cancelled
+fuera_de_rango,MLA,ticket,186.72,8,Rej. by PF
+Mayo,MLA,account_money,3494.25,219,Rej. by User Error
+Mayo,MLA,debit card,3502113.22,21325,Rej. by PF
+Abril,MLA,debit card,12203306.29,121246,Insufficient Amount
+fuera_de_rango,MLA,prepaid_card,877189.48,15904,Approved
+fuera_de_rango,MLA,ticket,83.17,5,Rej. by User Error
+Mayo,MLA,prepaid_card,4903816.67,37604,Insufficient Amount
+fuera_de_rango,MLA,credit card,45873828.33,484643,Approved
+fuera_de_rango,MLA,credit card,2871.31,14,Rej. by Risk Bank - Rej. by PF
+Abril,MLA,credit card,573869957.68,6117896,Approved
+fuera_de_rango,MLA,credit card,386354.15,2251,Cancelled
+Mayo,MLA,prepaid_card,964905.5,6369,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLA,debit card,43496.65,551,Rej. by Bank Other
+Mayo,MLA,debit card,16701.38,128,Rej. by Risk Bank - Rej. by PF
+Mayo,MLA,account_money,43574.84,667,Rej. by PF
+Mayo,MLA,ticket,490.74,50,Rej. by User Error
+fuera_de_rango,MLA,prepaid_card,54514.43,352,Rej. by Risk Bank - App. by PF
+Mayo,MLA,prepaid_card,454212.51,4263,Rej. by User Error
+Abril,MLA,debit card,4581884.14,55469,Rej. by User Error
+fuera_de_rango,MLA,credit card,564560.68,4182,Rej. by Bank Other
+Mayo,MLA,bank transfer,21344342.59,365108,Approved
+fuera_de_rango,MLA,digital_currency,38090.46,987,Cancelled
+Mayo,MLA,account_money,239786416.38,4840502,Approved
+Mayo,MLA,credit card,12137140.73,84059,Rej. by Bank Other
+fuera_de_rango,MLA,credit card,2356346.04,14742,Rej. by Risk Bank - App. by PF
+Mayo,MLA,debit card,181716.16,2160,Cancelled
+Mayo,MLA,credit card,22018445,152566,Rej. by User Error
+Abril,MLA,credit card,17326086.83,122990,Rej. by User Error
+fuera_de_rango,MLA,bank transfer,141054.26,276,Rej. by PF
+Abril,MLA,debit card,3082973.46,26937,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLA,ticket,917161.04,10128,Approved
+Mayo,MLA,credit card,38779851.95,245534,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLA,bank transfer,166262.12,2389,Insufficient Amount
+fuera_de_rango,MLA,digital_currency,3280.92,83,Rej. by PF
+fuera_de_rango,MLA,credit card,434839.6,3301,Rej. Blacklist
+fuera_de_rango,MLA,debit card,6800347.39,120729,Approved
+fuera_de_rango,MLA,account_money,185.02,16,Rej. by User Error
+Mayo,MLA,ticket,10129348.52,116090,Cancelled
+Mayo,MLA,bank transfer,673097.8,1588,Rej. by PF
+Mayo,MLA,bank transfer,306.83,25,Rej. by User Error
+Abril,MLA,credit card,28746.33,189,Rej. by Risk Bank - Rej. by PF
+Mayo,MLA,digital_currency,670740.51,19804,Cancelled
+Mayo,MLA,prepaid_card,60.66,3,Rej. by Risk Bank - Rej. by PF
+Abril,MLA,digital_currency,586677.37,16018,Cancelled
+fuera_de_rango,MLA,debit card,1113.94,5,Rej. by Risk Bank - Rej. by PF
+Mayo,MLA,ticket,16370.82,243,Rej. by PF
+fuera_de_rango,MLA,prepaid_card,57944.38,140,Rej. by PF
+Abril,MLA,credit card,82883203.04,415384,Insufficient Amount
+fuera_de_rango,MLA,debit card,5377.17,68,Cancelled
+fuera_de_rango,MLA,ticket,594557.36,6725,Cancelled
+fuera_de_rango,MLA,credit card,1280476.55,4913,Rej. by PF
+fuera_de_rango,MLA,debit card,245529.51,1433,Rej. by PF
+Mayo,MLA,debit card,4077611.94,49904,Rej. by User Error
+Mayo,MLA,prepaid_card,42760.53,504,Rej. Blacklist
+Abril,MLA,digital_currency,233.05,23,Rej. by User Error
+fuera_de_rango,MLA,account_money,104888.35,2155,Cancelled
+Abril,MLA,credit card,8185667.01,64175,Rej. by Bank Other
+Abril,MLA,ticket,226.19,18,Rej. by User Error
+Mayo,MLA,debit card,101567387.92,1807511,Approved
+Abril,MLA,account_money,210448869.71,4145316,Approved
+Abril,MLA,prepaid_card,37231.68,583,Rej. Blacklist
+Mayo,MLA,prepaid_card,133133.2,1492,Cancelled
+fuera_de_rango,MLA,prepaid_card,1738.53,32,Rej. Blacklist
+Abril,MLA,prepaid_card,273.22,5,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLA,debit card,791020.26,7962,Insufficient Amount
+fuera_de_rango,MLA,bank transfer,66369.16,1018,Rej. by Bank Other
+Abril,MLA,ticket,13532.15,207,Rej. by PF
+Abril,MLA,bank transfer,141858.05,769,Rej. by PF
+Abril,MLA,credit card,19556469.49,81142,Rej. by PF
+Mayo,MLA,credit card,782333632.23,8023116,Approved
+Abril,MLA,prepaid_card,942629.84,5850,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLA,prepaid_card,32616.95,279,Rej. by User Error
+Mayo,MLA,credit card,7298377.41,43314,Cancelled
+Abril,MLA,credit card,5134031.89,31509,Cancelled
+Mayo,MLA,prepaid_card,14358020.85,265789,Approved
+Abril,MLA,account_money,1467252.95,31568,Cancelled
+Mayo,MLA,digital_currency,38740763.13,828689,Approved
+Abril,MLA,debit card,97054584.73,1707471,Approved
+Mayo,MLA,debit card,763709.06,10144,Rej. by Bank Other
+Abril,MLA,digital_currency,35248453.64,754841,Approved
+fuera_de_rango,MLA,debit card,16625.45,262,Rej. Blacklist
+Abril,MLA,bank transfer,1085633.08,12190,Rej. by Bank Other
+fuera_de_rango,MLB,account_money,62305.9,3743,Cancelled
+Abril,MLB,debit card,39245.02,782,Rej. by User Error
+fuera_de_rango,MLB,credit card,810837.76,11380,Cancelled
+Mayo,MLB,tcmp,274250798.49,5654822,Approved
+fuera_de_rango,MLB,debit card,69.37,1,Rej. by Risk Bank - Rej. by PF
+Abril,MLB,debit card,44807.23,1859,Approved
+Mayo,MLB,digital_currency,1363720.82,44660,Cancelled
+Mayo,MLB,account_money,175869.4,2916,Rej. by User Error
+fuera_de_rango,MLB,digital_currency,19433.97,575,Rej. by PF
+fuera_de_rango,MLB,debit card,16771.54,255,Rej. by Bank Other
+Abril,MLB,ticket,13140.7,210,Rej. by Bank Other
+Abril,MLB,digital_currency,78271197.9,2773370,Approved
+Abril,MLB,account_money,88141433.08,3663296,Approved
+fuera_de_rango,MLB,debit card,2290.86,105,Approved
+Mayo,MLB,credit card,2278431.78,9271,Rej. by Risk Bank - Rej. by PF
+Mayo,MLB,tcmp,10932.65,46,Rej. by Risk Bank - Rej. by PF
+Mayo,MLB,ticket,45018212.36,626236,Approved
+Mayo,MLB,credit card,38030560.36,218189,Rej. by PF
+fuera_de_rango,MLB,tcmp,342033.78,3638,Insufficient Amount
+Abril,MLB,digital_currency,1189130.74,42805,Cancelled
+Mayo,MLB,bank transfer,77907910.63,1179352,Cancelled
+Mayo,MLB,bank transfer,3285057.77,13909,Rej. by PF
+Mayo,MLB,bank transfer,656498446.15,17343872,Approved
+Abril,MLB,debit card,74499.84,735,Insufficient Amount
+fuera_de_rango,MLB,credit card,604723.75,8455,Rej. Blacklist
+fuera_de_rango,MLB,tcmp,90.91,1,Rej. by Risk Bank - Rej. by PF
+Abril,MLB,tcmp,1545443.9,36179,Rej. by Bank Other
+fuera_de_rango,MLB,debit card,344.45,5,Rej. by Risk Bank - App. by PF
+Abril,MLB,debit card,10729.2,155,Rej. by Risk Bank - App. by PF
+Mayo,MLB,credit card,60376674.9,743153,Rej. by User Error
+Abril,MLB,ticket,2352043.73,17547,Rej. by PF
+fuera_de_rango,MLB,credit card,2433386.34,12923,Rej. by PF
+Mayo,MLB,tcmp,5949792.48,64207,Insufficient Amount
+fuera_de_rango,MLB,bank transfer,4316786.39,65089,Cancelled
+fuera_de_rango,MLB,ticket,755.29,11,Rej. by Bank Other
+fuera_de_rango,MLB,account_money,4331.83,88,Rej. by User Error
+fuera_de_rango,MLB,debit card,204.01,3,Cancelled
+Mayo,MLB,tcmp,2395928.39,35152,Cancelled
+Mayo,MLB,tcmp,1813875.48,41308,Rej. by Bank Other
+Abril,MLB,tcmp,1187864.74,16493,Rej. Blacklist
+fuera_de_rango,MLB,credit card,3461115.16,42362,Rej. by User Error
+fuera_de_rango,MLB,tcmp,76751.64,1640,Rej. by Bank Other
+fuera_de_rango,MLB,credit card,90043680.51,1759335,Approved
+Mayo,MLB,debit card,35791.08,1360,Approved
+Mayo,MLB,tcmp,1280670.85,17107,Rej. Blacklist
+fuera_de_rango,MLB,tcmp,14886387.94,312331,Approved
+fuera_de_rango,MLB,ticket,2015037.43,20214,Cancelled
+fuera_de_rango,MLB,ticket,789161.81,8575,Pending
+fuera_de_rango,MLB,credit card,950212.44,11283,Rej. by Bank Other
+Abril,MLB,tcmp,1034435.11,18725,Rej. by User Error
+Mayo,MLB,debit card,238314.87,3916,Rej. by Bank Other
+Mayo,MLB,tcmp,755845.51,9993,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLB,digital_currency,75982.35,2641,Cancelled
+Mayo,MLB,credit card,45907061.01,567626,Rej. by Risk Bank - App. by PF
+Abril,MLB,ticket,42514282.4,601877,Approved
+Abril,MLB,debit card,6764.18,93,Rej. Blacklist
+Mayo,MLB,ticket,7274.92,92,Rej. by Bank Other
+Mayo,MLB,account_money,454762.75,6857,Rej. by PF
+fuera_de_rango,MLB,tcmp,118610.47,1915,Cancelled
+fuera_de_rango,MLB,bank transfer,201241.73,1164,Rej. by PF
+Mayo,MLB,credit card,14378075.91,193940,Cancelled
+fuera_de_rango,MLB,tcmp,56957.45,1196,Rej. by Risk Bank - App. by PF
+Abril,MLB,credit card,43221380.29,560371,Rej. by Risk Bank - App. by PF
+Abril,MLB,tcmp,437365.03,4910,Rej. by Risk Bank - App. by PF
+Abril,MLB,debit card,202447.83,1350,Rej. by PF
+Abril,MLB,bank transfer,594267890.92,16009907,Approved
+Mayo,MLB,account_money,873600.96,62713,Cancelled
+fuera_de_rango,MLB,digital_currency,5301959.58,179043,Approved
+Mayo,MLB,ticket,32056387.06,321859,Cancelled
+fuera_de_rango,MLB,debit card,3168.63,60,Insufficient Amount
+Abril,MLB,debit card,3175.52,55,Cancelled
+Abril,MLB,tcmp,6041561.1,66553,Insufficient Amount
+fuera_de_rango,MLB,credit card,2501916.36,30498,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLB,tcmp,53993.76,475,Rej. by PF
+Abril,MLB,account_money,915166.15,69316,Cancelled
+Mayo,MLB,debit card,8216.46,99,Rej. Blacklist
+fuera_de_rango,MLB,ticket,2696660.91,38912,Approved
+fuera_de_rango,MLB,credit card,113336,406,Rej. by Risk Bank - Rej. by PF
+Abril,MLB,credit card,118643579.29,1271421,Insufficient Amount
+Abril,MLB,debit card,210495.08,3488,Rej. by Bank Other
+Abril,MLB,credit card,1371860228.78,26763562,Approved
+Abril,MLB,bank transfer,94888241.29,1452067,Cancelled
+Abril,MLB,ticket,52.88,2,Pending
+Mayo,MLB,account_money,96137472.94,3901294,Approved
+fuera_de_rango,MLB,account_money,5900428.11,239153,Approved
+Mayo,MLB,ticket,9679704.65,103797,Pending
+Mayo,MLB,digital_currency,372759.88,9934,Rej. by PF
+Abril,MLB,credit card,2256070.52,12461,Rej. by Risk Bank - Rej. by PF
+Mayo,MLB,credit card,10188669.84,144386,Rej. Blacklist
+fuera_de_rango,MLB,bank transfer,1921067.91,30061,Pending
+Abril,MLB,credit card,61865559.84,745922,Rej. by User Error
+Mayo,MLB,bank transfer,23480016.46,372322,Pending
+Abril,MLB,tcmp,1197056.2,15229,Rej. by PF
+Mayo,MLB,credit card,127742319.85,1353398,Insufficient Amount
+Abril,MLB,account_money,356235.05,7596,Rej. by PF
+fuera_de_rango,MLB,debit card,3538.06,61,Rej. by User Error
+fuera_de_rango,MLB,tcmp,51288.57,943,Rej. by User Error
+Abril,MLB,account_money,91274.4,1557,Rej. by User Error
+fuera_de_rango,MLB,debit card,171.59,4,Rej. Blacklist
+Abril,MLB,credit card,13938776.1,175937,Rej. by Bank Other
+Mayo,MLB,debit card,3103.76,59,Cancelled
+Mayo,MLB,debit card,48391.91,775,Rej. by User Error
+Abril,MLB,credit card,8984610.62,130301,Rej. Blacklist
+Abril,MLB,credit card,50440706.39,391228,Rej. by PF
+fuera_de_rango,MLB,ticket,143632.43,974,Rej. by PF
+Mayo,MLB,debit card,149831.99,794,Rej. by PF
+Abril,MLB,ticket,40189880.15,415347,Cancelled
+Abril,MLB,debit card,346.35,5,Rej. by Risk Bank - Rej. by PF
+Abril,MLB,digital_currency,341255.83,11117,Rej. by PF
+Mayo,MLB,tcmp,974805.78,8125,Rej. by PF
+Abril,MLB,tcmp,3519.04,19,Rej. by Risk Bank - Rej. by PF
+Mayo,MLB,debit card,24754.1,165,Rej. by Risk Bank - App. by PF
+Abril,MLB,credit card,13216288.95,185273,Cancelled
+fuera_de_rango,MLB,bank transfer,39663433.18,1084383,Approved
+Mayo,MLB,tcmp,1033315.75,16212,Rej. by User Error
+Mayo,MLB,credit card,1507203695.25,28611923,Approved
+Abril,MLB,tcmp,238964403.95,4951945,Approved
+fuera_de_rango,MLB,credit card,7967528.76,86377,Insufficient Amount
+Mayo,MLB,digital_currency,97750646.94,3156246,Approved
+Abril,MLB,tcmp,2195232.42,32629,Cancelled
+Mayo,MLB,ticket,3181806.7,21955,Rej. by PF
+fuera_de_rango,MLB,account_money,20247.6,434,Rej. by PF
+fuera_de_rango,MLB,tcmp,76500.41,982,Rej. Blacklist
+fuera_de_rango,MLB,debit card,4248.93,35,Rej. by PF
+Abril,MLB,bank transfer,4793513.28,61376,Rej. by PF
+Mayo,MLB,debit card,61011.3,574,Insufficient Amount
+Mayo,MLB,credit card,15541991.35,194614,Rej. by Bank Other
+fuera_de_rango,MLC,digital_currency,818.91,29,Rej. by PF
+Abril,MLC,prepaid_card,156.57,2,Cancelled
+Mayo,MLC,credit card,1719171.82,7294,Rej. by PF
+Mayo,MLC,prepaid_card,21.67,1,Cancelled
+Mayo,MLC,debit card,503847.82,4023,Rej. by PF
+Abril,MLC,account_money,12441.3,230,Rej. by PF
+fuera_de_rango,MLC,credit card,249.62,6,Rej. by Risk Bank - Rej. by PF
+Mayo,MLC,credit card,171292.49,2959,Rej. Blacklist
+Abril,MLC,credit card,3508342.19,40791,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLC,credit card,130232.77,528,Rej. by PF
+Abril,MLC,debit card,596422.02,5905,Rej. by PF
+Abril,MLC,debit card,74681579.92,1876261,Approved
+Abril,MLC,prepaid_card,251.91,2,Rej. by PF
+Mayo,MLC,digital_currency,1788684.31,55356,Approved
+Mayo,MLC,debit card,1487526.66,22941,Rej. by Risk Bank - App. by PF
+Abril,MLC,credit card,459401.4,8360,Cancelled
+fuera_de_rango,MLC,debit card,179029.66,2763,Rej. by User Error
+fuera_de_rango,MLC,credit card,6401491.94,112056,Approved
+Mayo,MLC,prepaid_card,2783.2,11,Rej. by PF
+Abril,MLC,prepaid_card,117.98,4,Rej. by Risk Bank - App. by PF
+Abril,MLC,credit card,157303.32,2831,Rej. Blacklist
+Mayo,MLC,credit card,449585.74,8327,Rej. by User Error
+Abril,MLC,digital_currency,913992.68,27277,Approved
+fuera_de_rango,MLC,credit card,45123.41,599,Rej. by Bank Other
+Mayo,MLC,credit card,650484.66,8906,Rej. by Bank Other
+fuera_de_rango,MLC,account_money,7464.43,297,Cancelled
+Mayo,MLC,credit card,3657344.74,41217,Insufficient Amount
+Abril,MLC,prepaid_card,2979.27,5,Insufficient Amount
+Abril,MLC,account_money,97134.01,3963,Cancelled
+fuera_de_rango,MLC,credit card,26373.2,477,Cancelled
+Abril,MLC,credit card,556762.63,9491,Rej. by User Error
+Mayo,MLC,debit card,1449863.6,27357,Rej. by User Error
+fuera_de_rango,MLC,credit card,64790.54,1048,Rej. by User Error
+Abril,MLC,credit card,2164691.75,9144,Rej. by PF
+fuera_de_rango,MLC,debit card,6256013.12,151534,Approved
+Abril,MLC,debit card,168675.93,3542,Rej. Blacklist
+Mayo,MLC,credit card,3428298.36,41129,Rej. by Risk Bank - App. by PF
+Mayo,MLC,credit card,14678.42,71,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLC,credit card,315150.79,2776,Insufficient Amount
+Mayo,MLC,digital_currency,17141.3,512,Cancelled
+Abril,MLC,debit card,41552.81,302,Rej. by Risk Bank - Rej. by PF
+Abril,MLC,debit card,3198004.8,44358,Insufficient Amount
+Mayo,MLC,credit card,433659.55,7697,Cancelled
+Abril,MLC,debit card,2233456.85,33570,Rej. by User Error
+Mayo,MLC,digital_currency,14353.23,403,Rej. by PF
+fuera_de_rango,MLC,prepaid_card,249.49,4,Approved
+Abril,MLC,debit card,1186110.56,17769,Rej. by Risk Bank - App. by PF
+Mayo,MLC,debit card,78065115.74,1959189,Approved
+fuera_de_rango,MLC,debit card,5525.13,29,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLC,debit card,38589.24,319,Rej. by PF
+Abril,MLC,digital_currency,3832.03,98,Rej. by PF
+fuera_de_rango,MLC,debit card,10238.4,235,Rej. Blacklist
+Mayo,MLC,prepaid_card,230.27,6,Rej. by Risk Bank - App. by PF
+Mayo,MLC,prepaid_card,11.53,1,Rej. by Bank Other
+Abril,MLC,prepaid_card,7.88,1,Rej. Blacklist
+fuera_de_rango,MLC,digital_currency,144073.76,4418,Approved
+Mayo,MLC,debit card,468850.94,4096,Rej. by Bank Other
+Abril,MLC,account_money,16814736.93,430303,Approved
+fuera_de_rango,MLC,account_money,1260544.45,31556,Approved
+Mayo,MLC,debit card,175472.1,3439,Rej. Blacklist
+Abril,MLC,prepaid_card,6671.08,89,Approved
+Mayo,MLC,debit card,48369.87,400,Rej. by Risk Bank - Rej. by PF
+Mayo,MLC,account_money,15129.22,195,Rej. by PF
+Mayo,MLC,prepaid_card,1678.33,12,Insufficient Amount
+Mayo,MLC,account_money,18196639.9,488344,Approved
+fuera_de_rango,MLC,prepaid_card,6.06,1,Insufficient Amount
+fuera_de_rango,MLC,debit card,25879.1,321,Rej. by Bank Other
+Abril,MLC,credit card,703530.84,8669,Rej. by Bank Other
+fuera_de_rango,MLC,account_money,1653.2,20,Rej. by PF
+Abril,MLC,credit card,3315.08,32,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLC,debit card,282644.44,3429,Insufficient Amount
+fuera_de_rango,MLC,credit card,13778.26,257,Rej. Blacklist
+Abril,MLC,digital_currency,10249.23,274,Cancelled
+Abril,MLC,debit card,405910.23,4297,Rej. by Bank Other
+fuera_de_rango,MLC,debit card,84653.28,1292,Rej. by Risk Bank - App. by PF
+Mayo,MLC,debit card,3344317.95,47473,Insufficient Amount
+fuera_de_rango,MLC,debit card,12401.98,154,Cancelled
+Mayo,MLC,debit card,170691.85,2676,Cancelled
+Mayo,MLC,prepaid_card,10390.18,155,Approved
+Mayo,MLC,credit card,78885951.44,1554177,Approved
+Abril,MLC,debit card,140566.05,2095,Cancelled
+Mayo,MLC,account_money,98915.01,4776,Cancelled
+fuera_de_rango,MLC,credit card,329137.75,3112,Rej. by Risk Bank - App. by PF
+Abril,MLC,credit card,77560437.4,1527849,Approved
+Abril,MLC,credit card,3719933.5,41158,Insufficient Amount
+fuera_de_rango,MLC,digital_currency,1139.57,43,Cancelled
+Abril,MLM,tcmp,25092.56,197,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLM,debit card,63071.39,723,Cancelled
+Mayo,MLM,tcmp,140360.26,2065,Rej. by Risk Bank - App. by PF
+Abril,MLM,atm,11797254.53,57616,Cancelled
+Mayo,MLM,tcmp,87342.27,639,Rej. Blacklist
+fuera_de_rango,MLM,digital_currency,18497.93,456,Rej. by PF
+Mayo,MLM,atm,4905444.98,44601,Approved
+fuera_de_rango,MLM,debit card,1670777.4,20466,Insufficient Amount
+Abril,MLM,account_money,617363.25,34438,Cancelled
+fuera_de_rango,MLM,tcmp,316056.5,2652,Insufficient Amount
+Mayo,MLM,debit card,442667.02,1859,Rej. by Risk Bank - Rej. by PF
+Abril,MLM,credit card,1381510.43,15926,Rej. by Bank Other
+fuera_de_rango,MLM,debit card,62613.01,1040,Rej. by Bank Other
+Mayo,MLM,credit card,460468.45,1388,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLM,tcmp,87538.06,1351,Rej. by Risk Bank - App. by PF
+Abril,MLM,account_money,42413.32,691,Rej. by PF
+Abril,MLM,credit card,4190994.19,68368,Cancelled
+Mayo,MLM,debit card,7760656.42,41848,Rej. by PF
+Abril,MLM,tcmp,413929.58,6036,Rej. by Bank Other
+Mayo,MLM,tcmp,140423968.95,2257665,Approved
+Mayo,MLM,digital_currency,236277.7,5779,Rej. by PF
+Abril,MLM,debit card,7826873.2,49115,Rej. by PF
+fuera_de_rango,MLM,tcmp,7809.22,140,Rej. by User Error
+fuera_de_rango,MLM,ticket,792739.9,16837,Pending
+Abril,MLM,digital_currency,235427.29,6220,Rej. by PF
+Abril,MLM,debit card,318760263.31,6778681,Approved
+fuera_de_rango,MLM,atm,301335.72,1223,Pending
+Abril,MLM,credit card,19244189.29,81158,Rej. by PF
+Abril,MLM,account_money,5359.3,50,Rej. by User Error
+Abril,MLM,debit card,15213998.8,236936,Rej. by User Error
+fuera_de_rango,MLM,debit card,26708697.03,548437,Approved
+Mayo,MLM,bank transfer,16616179.35,178549,Cancelled
+Abril,MLM,tcmp,1168715.63,23393,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLM,atm,264118.02,2759,Approved
+fuera_de_rango,MLM,atm,1563.2,7,Rej. by PF
+Abril,MLM,tcmp,93538.09,1883,Rej. by User Error
+Abril,MLM,credit card,13177284.7,135074,Rej. by User Error
+Mayo,MLM,tcmp,1680592.56,23349,Rej. by Bank Other
+Abril,MLM,credit card,320994.66,1065,Rej. by Risk Bank - Rej. by PF
+Abril,MLM,credit card,4853541.65,43903,Rej. Blacklist
+Mayo,MLM,tcmp,3384145.9,25083,Insufficient Amount
+Mayo,MLM,account_money,27722.35,505,Rej. by PF
+Mayo,MLM,atm,197000.25,259,Rej. by PF
+Abril,MLM,ticket,67995950.22,1359607,Approved
+Mayo,MLM,bank transfer,22154627.77,374469,Approved
+Abril,MLM,credit card,377795493.31,6055150,Approved
+fuera_de_rango,MLM,credit card,428967.8,3448,Rej. Blacklist
+Mayo,MLM,debit card,2097871.01,20437,Rej. by Bank Other
+fuera_de_rango,MLM,account_money,2969.09,50,Rej. by PF
+Abril,MLM,credit card,24671086.05,223206,Rej. by Risk Bank - App. by PF
+Mayo,MLM,debit card,24286225.28,308516,Insufficient Amount
+Mayo,MLM,debit card,19310047.3,272135,Rej. by User Error
+Abril,MLM,tcmp,3764231.28,39016,Insufficient Amount
+fuera_de_rango,MLM,credit card,3050686.75,20010,Insufficient Amount
+fuera_de_rango,MLM,credit card,1176174.07,10919,Rej. by User Error
+Abril,MLM,debit card,17844772,256706,Insufficient Amount
+fuera_de_rango,MLM,credit card,35158.7,95,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLM,debit card,578659.29,3316,Rej. by PF
+Mayo,MLM,account_money,687638.42,32974,Cancelled
+fuera_de_rango,MLM,credit card,36250249.35,487698,Approved
+Mayo,MLM,digital_currency,1354896.7,37605,Cancelled
+Mayo,MLM,credit card,20735291.63,113489,Rej. by PF
+Mayo,MLM,digital_currency,139084921.07,2937215,Approved
+Mayo,MLM,ticket,9406326.5,184853,Pending
+fuera_de_rango,MLM,credit card,2045865.55,16099,Rej. by Risk Bank - App. by PF
+Abril,MLM,tcmp,211904.99,2675,Rej. by PF
+Mayo,MLM,account_money,755.48,21,Rej. by User Error
+fuera_de_rango,MLM,account_money,99.51,4,Rej. by User Error
+fuera_de_rango,MLM,tcmp,21528.78,240,Rej. by PF
+Abril,MLM,digital_currency,1034284.31,29883,Cancelled
+Mayo,MLM,atm,13611951.87,56723,Cancelled
+Abril,MLM,tcmp,836307.33,12934,Cancelled
+Mayo,MLM,debit card,412200908.67,8207557,Approved
+Mayo,MLM,credit card,6822163.29,49561,Rej. Blacklist
+Mayo,MLM,ticket,93054.4,1993,Rej. by PF
+Mayo,MLM,debit card,3886797.28,55470,Rej. Blacklist
+Mayo,MLM,credit card,41684794.65,289061,Insufficient Amount
+Abril,MLM,ticket,92874.13,1967,Rej. by PF
+fuera_de_rango,MLM,digital_currency,9146926.03,193540,Approved
+Abril,MLM,tcmp,89483173.68,1715001,Approved
+fuera_de_rango,MLM,account_money,7493259.58,173784,Approved
+fuera_de_rango,MLM,tcmp,1516.52,8,Rej. Blacklist
+fuera_de_rango,MLM,credit card,399773.5,5381,Cancelled
+Mayo,MLM,account_money,112813461.3,2495972,Approved
+Abril,MLM,debit card,7165564.62,100380,Rej. by Risk Bank - App. by PF
+Mayo,MLM,tcmp,147281.87,1990,Rej. by User Error
+fuera_de_rango,MLM,digital_currency,91246.03,2490,Cancelled
+fuera_de_rango,MLM,credit card,1321627.57,6650,Rej. by PF
+Mayo,MLM,credit card,6279098.18,82015,Cancelled
+Mayo,MLM,tcmp,1132956.08,11131,Cancelled
+fuera_de_rango,MLM,ticket,1616048.2,34219,Cancelled
+fuera_de_rango,MLM,ticket,5190878.51,101552,Approved
+Abril,MLM,credit card,27854137.11,227753,Insufficient Amount
+fuera_de_rango,MLM,debit card,1284766.14,18296,Rej. by User Error
+fuera_de_rango,MLM,tcmp,9703351.75,151403,Approved
+fuera_de_rango,MLM,bank transfer,1223406.01,13041,Cancelled
+fuera_de_rango,MLM,tcmp,1198.54,8,Rej. by Risk Bank - Rej. by PF
+Abril,MLM,ticket,31927843.09,696062,Cancelled
+Abril,MLM,debit card,328824.81,1239,Rej. by Risk Bank - Rej. by PF
+Mayo,MLM,credit card,19429468.78,184197,Rej. by User Error
+Abril,MLM,account_money,96308288.83,2331107,Approved
+Mayo,MLM,tcmp,303322.89,1858,Rej. by PF
+Abril,MLM,atm,19134.58,204,Rej. by PF
+fuera_de_rango,MLM,bank transfer,1371106.15,25221,Approved
+Mayo,MLM,bank transfer,41105.54,535,Rej. by PF
+Abril,MLM,bank transfer,17261950.98,308501,Approved
+Abril,MLM,bank transfer,103464.19,1588,Rej. by PF
+fuera_de_rango,MLM,ticket,8324.73,129,Rej. by PF
+Abril,MLM,debit card,3185019.28,48301,Rej. Blacklist
+Abril,MLM,atm,4057641.79,40299,Approved
+Abril,MLM,bank transfer,13323401.25,140146,Cancelled
+Abril,MLM,digital_currency,118418437.67,2711406,Approved
+Abril,MLM,debit card,718905.1,10536,Cancelled
+Mayo,MLM,debit card,8823712.62,108545,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLM,debit card,236947.12,3702,Rej. Blacklist
+Mayo,MLM,ticket,81414053.49,1498727,Approved
+Mayo,MLM,atm,2986127.09,12954,Pending
+Mayo,MLM,tcmp,16047.13,62,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLM,bank transfer,2668.87,40,Rej. by PF
+Mayo,MLM,credit card,2271862.25,21500,Rej. by Bank Other
+fuera_de_rango,MLM,debit card,21884.89,102,Rej. by Risk Bank - Rej. by PF
+Mayo,MLM,debit card,1098452.52,12541,Cancelled
+Abril,MLM,ticket,551.47,11,Pending
+Mayo,MLM,credit card,33019420.17,248373,Rej. by Risk Bank - App. by PF
+Abril,MLM,tcmp,30728,136,Rej. Blacklist
+Mayo,MLM,credit card,522416994.09,7236171,Approved
+fuera_de_rango,MLM,credit card,131270.41,1435,Rej. by Bank Other
+fuera_de_rango,MLM,account_money,56956.51,2558,Cancelled
+fuera_de_rango,MLM,debit card,537785.04,7515,Rej. by Risk Bank - App. by PF
+Mayo,MLM,ticket,28944640.83,583623,Cancelled
+fuera_de_rango,MLM,tcmp,83900.93,896,Cancelled
+Abril,MLM,debit card,1224218.12,17966,Rej. by Bank Other
+fuera_de_rango,MLM,atm,536662.74,2956,Cancelled
+fuera_de_rango,MLM,tcmp,46674.14,524,Rej. by Bank Other
+Abril,MLU,credit card,45991.69,473,Cancelled
+Mayo,MLU,account_money,16962.36,855,Cancelled
+Mayo,MLU,debit card,74496.47,526,Rej. by PF
+Abril,MLU,credit card,201329.64,2145,Rej. Blacklist
+Abril,MLU,debit card,117283.77,791,Rej. by PF
+fuera_de_rango,MLU,debit card,1069.5,17,Cancelled
+Mayo,MLU,credit card,260302.34,2130,Rej. by Bank Other
+fuera_de_rango,MLU,debit card,6457.91,33,Rej. by PF
+fuera_de_rango,MLU,debit card,8164.92,144,Rej. by Bank Other
+fuera_de_rango,MLU,debit card,133.98,3,Rej. by Risk Bank - Rej. by PF
+Mayo,MLU,ticket,2186.78,40,Rej. by PF
+Mayo,MLU,credit card,37415353.25,525651,Approved
+fuera_de_rango,MLU,credit card,5226.42,43,Cancelled
+Mayo,MLU,credit card,4866823.43,35005,Insufficient Amount
+Abril,MLU,credit card,4279698.11,31925,Insufficient Amount
+Abril,MLU,account_money,929975.46,21282,Approved
+fuera_de_rango,MLU,debit card,71647.77,474,Insufficient Amount
+Mayo,MLU,ticket,2040955.39,28793,Cancelled
+Abril,MLU,debit card,7902035.28,154933,Approved
+Mayo,MLU,debit card,11874.65,187,Cancelled
+Mayo,MLU,account_money,107.38,4,Rej. by PF
+fuera_de_rango,MLU,debit card,450.97,7,Rej. Blacklist
+Mayo,MLU,debit card,5609.28,110,Rej. Blacklist
+Mayo,MLU,debit card,770597.7,6253,Insufficient Amount
+Abril,MLU,ticket,3029914.98,46873,Approved
+Abril,MLU,credit card,1025849.94,11767,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLU,credit card,15779.12,186,Rej. Blacklist
+Mayo,MLU,credit card,623298.24,6488,Rej. by User Error
+Abril,MLU,account_money,19610.62,796,Cancelled
+Abril,MLU,debit card,107424.02,1542,Rej. by User Error
+fuera_de_rango,MLU,credit card,284.98,2,Rej. by Risk Bank - Rej. by PF
+Abril,MLU,debit card,148272.34,2005,Rej. by Risk Bank - App. by PF
+Abril,MLU,debit card,10466.12,149,Cancelled
+Mayo,MLU,ticket,3197462.05,49660,Approved
+fuera_de_rango,MLU,account_money,59250.53,1440,Approved
+fuera_de_rango,MLU,credit card,69815.99,747,Rej. by Risk Bank - App. by PF
+Mayo,MLU,credit card,309947.59,3312,Rej. Blacklist
+Mayo,MLU,account_money,999993.12,23045,Approved
+Mayo,MLU,debit card,140357,2221,Rej. by Bank Other
+Abril,MLU,credit card,208615,1817,Rej. by Bank Other
+Abril,MLU,debit card,126699.77,1930,Rej. by Bank Other
+Abril,MLU,debit card,5557.33,34,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLU,debit card,7197.23,131,Rej. by Risk Bank - App. by PF
+Mayo,MLU,credit card,19808.19,54,Rej. by Risk Bank - Rej. by PF
+Mayo,MLU,debit card,159016.74,2182,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLU,credit card,274231.72,2077,Insufficient Amount
+Mayo,MLU,debit card,103853.56,1635,Rej. by User Error
+Abril,MLU,account_money,166.29,7,Rej. by PF
+Mayo,MLU,credit card,635113.53,2180,Rej. by PF
+Abril,MLU,debit card,7093.64,121,Rej. Blacklist
+Abril,MLU,credit card,535001.81,5664,Rej. by User Error
+Abril,MLU,ticket,975.73,23,Rej. by PF
+Mayo,MLU,credit card,1190008.07,13038,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MLU,credit card,10322.56,107,Rej. by Bank Other
+fuera_de_rango,MLU,account_money,1026.26,51,Cancelled
+fuera_de_rango,MLU,credit card,2185144.22,30350,Approved
+Abril,MLU,ticket,1823177.85,26309,Cancelled
+Mayo,MLU,debit card,13451.04,71,Rej. by Risk Bank - Rej. by PF
+Mayo,MLU,debit card,8756219.33,171227,Approved
+Abril,MLU,debit card,684520.03,5440,Insufficient Amount
+Abril,MLU,credit card,32684988.99,472061,Approved
+fuera_de_rango,MLU,ticket,154834.35,2190,Cancelled
+Abril,MLU,credit card,5019.63,27,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MLU,credit card,45892.92,137,Rej. by PF
+fuera_de_rango,MLU,credit card,37610.55,374,Rej. by User Error
+Mayo,MLU,credit card,42793.83,553,Cancelled
+Abril,MLU,credit card,738017.32,2389,Rej. by PF
+fuera_de_rango,MLU,debit card,4828.65,96,Rej. by User Error
+fuera_de_rango,MLU,ticket,205747.72,3278,Approved
+fuera_de_rango,MLU,debit card,554893.56,10659,Approved
+Mayo,MPE,bank transfer,15708.48,125,Insufficient Amount
+fuera_de_rango,MPE,bank transfer,4156.46,44,Rej. by User Error
+Mayo,MPE,bank transfer,4.07,1,Rej. by Bank Other
+fuera_de_rango,MPE,credit card,815.57,20,Rej. by Bank Other
+fuera_de_rango,MPE,debit card,15772.18,111,Rej. by Risk Bank - App. by PF
+Abril,MPE,account_money,8941.58,164,Cancelled
+Mayo,MPE,credit card,95202.29,558,Cancelled
+Mayo,MPE,debit card,8025.51,106,Rej. Blacklist
+Abril,MPE,debit card,471162.36,2370,Insufficient Amount
+Mayo,MPE,account_money,10753.44,83,Rej. by PF
+Abril,MPE,atm,1464735.52,11298,Cancelled
+fuera_de_rango,MPE,credit card,44255,184,Rej. by Risk Bank - App. by PF
+Mayo,MPE,debit card,382162.57,1859,Rej. by User Error
+Abril,MPE,credit card,75882.76,388,Rej. by Bank Other
+Mayo,MPE,account_money,114865.79,3292,Approved
+fuera_de_rango,MPE,debit card,28090.39,122,Rej. by User Error
+fuera_de_rango,MPE,account_money,901.78,4,Rej. by PF
+Abril,MPE,debit card,2430449.64,48345,Approved
+Mayo,MPE,debit card,409147.87,2082,Insufficient Amount
+Abril,MPE,debit card,12086.25,113,Rej. Blacklist
+Mayo,MPE,debit card,61104.35,131,Rej. by Risk Bank - Rej. by PF
+Abril,MPE,account_money,9008.93,84,Rej. by PF
+Mayo,MPE,credit card,9187466.21,85583,Approved
+Abril,MPE,atm,133.41,3,Rej. by PF
+Mayo,MPE,bank transfer,635.96,9,Cancelled
+Abril,MPE,debit card,716115.12,769,Rej. by PF
+Abril,MPE,credit card,121798.55,520,Cancelled
+Abril,MPE,credit card,411537.21,2034,Rej. by User Error
+fuera_de_rango,MPE,credit card,53816.39,100,Rej. by PF
+fuera_de_rango,MPE,debit card,5816.81,36,Rej. by PF
+Mayo,MPE,debit card,21425.52,217,Rej. by Bank Other
+fuera_de_rango,MPE,credit card,2352.69,8,Rej. by Risk Bank - Rej. by PF
+Mayo,MPE,credit card,1158615.23,2499,Rej. by PF
+Abril,MPE,debit card,82369.25,141,Rej. by Risk Bank - Rej. by PF
+Mayo,MPE,bank transfer,122563.55,3999,Approved
+fuera_de_rango,MPE,debit card,143756.38,2863,Approved
+Mayo,MPE,credit card,17466.56,171,Rej. Blacklist
+fuera_de_rango,MPE,atm,60818.08,1359,Approved
+Abril,MPE,account_money,126748.88,3576,Approved
+fuera_de_rango,MPE,debit card,949.56,9,Rej. Blacklist
+Abril,MPE,credit card,41468.09,95,Rej. by Risk Bank - Rej. by PF
+fuera_de_rango,MPE,credit card,2459.37,30,Cancelled
+Abril,MPE,debit card,229113.47,1676,Rej. by Risk Bank - App. by PF
+Mayo,MPE,credit card,403721.71,1326,Insufficient Amount
+fuera_de_rango,MPE,bank transfer,3095.44,23,Insufficient Amount
+Mayo,MPE,credit card,106919.85,184,Rej. by Risk Bank - Rej. by PF
+Mayo,MPE,account_money,5297.25,147,Cancelled
+Mayo,MPE,atm,1318452.89,9604,Cancelled
+fuera_de_rango,MPE,account_money,4698.85,214,Approved
+Abril,MPE,credit card,476641.16,1479,Insufficient Amount
+Mayo,MPE,debit card,36843.35,289,Cancelled
+fuera_de_rango,MPE,debit card,764.91,13,Cancelled
+Mayo,MPE,atm,29.9,2,Rej. by PF
+Abril,MPE,debit card,19745.03,169,Rej. by Bank Other
+Mayo,MPE,credit card,436554.98,2615,Rej. by Risk Bank - App. by PF
+Abril,MPE,credit card,10192793.11,94536,Approved
+Mayo,MPE,debit card,173294.96,460,Rej. by PF
+Abril,MPE,credit card,1132524.44,2443,Rej. by PF
+Abril,MPE,credit card,24246.75,165,Rej. Blacklist
+Mayo,MPE,debit card,2194421.68,42343,Approved
+fuera_de_rango,MPE,debit card,28088.05,121,Insufficient Amount
+fuera_de_rango,MPE,account_money,115.11,9,Cancelled
+fuera_de_rango,MPE,debit card,570.66,6,Rej. by Bank Other
+fuera_de_rango,MPE,atm,82666.19,549,Cancelled
+Abril,MPE,credit card,496449.51,2809,Rej. by Risk Bank - App. by PF
+fuera_de_rango,MPE,credit card,2327.21,18,Rej. Blacklist
+Mayo,MPE,bank transfer,1501.32,23,Rej. by Risk Bank - App. by PF
+Mayo,MPE,credit card,58610.3,381,Rej. by Bank Other
+fuera_de_rango,MPE,bank transfer,26.16,1,Rej. by Bank Other
+Abril,MPE,debit card,39408.09,253,Cancelled
+fuera_de_rango,MPE,debit card,4549.39,7,Rej. by Risk Bank - Rej. by PF
+Mayo,MPE,atm,1079087.43,20473,Approved
+Mayo,MPE,debit card,204919.74,1404,Rej. by Risk Bank - App. by PF
+Mayo,MPE,bank transfer,549.25,9,Rej. by PF
+Abril,MPE,atm,1100243.11,23353,Approved
+fuera_de_rango,MPE,bank transfer,16915.43,586,Approved
+Mayo,MPE,bank transfer,22273.04,337,Rej. by User Error
+Abril,MPE,debit card,432084.44,2056,Rej. by User Error
+fuera_de_rango,MPE,credit card,21516.46,109,Rej. by User Error
+fuera_de_rango,MPE,credit card,23638.89,77,Insufficient Amount
+fuera_de_rango,MPE,credit card,574287.71,5450,Approved
+Mayo,MPE,credit card,484967.73,2199,Rej. by User Error
