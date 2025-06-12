@@ -172,7 +172,6 @@ with col2:
         value_html,
         delta=None
     ), unsafe_allow_html=True)
-
 st.divider()
 
 # Sección 2: Gráficos
@@ -335,6 +334,8 @@ if not rejected_df.empty:
 else:
     st.info("No hay rechazos registrados en el período seleccionado")
 
+st.divider()
+
 st.subheader("📊 Status de Compras No Aprobadas")
 
 not_approved_df = filtered_df[(filtered_df['status'] != 'Approved') & (filtered_df['status'] != 'Pending')]
@@ -393,8 +394,10 @@ if not not_approved_df.empty:
     fig.update_traces(textposition='inside', textfont_color='black')
     st.plotly_chart(fig, use_container_width=True)
 
-    # Gráfico 2: Distribución por buyer_type
-    st.subheader("👤 Distribución de Buyer Type en Compras No Aprobadas")
+    st.divider()
+
+    # Cuadro: Distribución de Buyer Type en Compras No Aprobadas
+    st.subheader("👤 Buyer Type en Compras No Aprobadas")
     if 'buyer_type' in not_approved_df.columns:
         buyer_share = (
             not_approved_df.groupby(['mes', 'buyer_type'])['incoming_amt']
@@ -404,85 +407,90 @@ if not not_approved_df.empty:
         buyer_share = buyer_share.merge(total_by_mes, on='mes')
         buyer_share['Porcentaje'] = (buyer_share['incoming_amt'] / buyer_share['Total_mes']) * 100
         buyer_share = buyer_share[buyer_share['mes'].isin([mes_anterior, mes_actual])]
-        fig_buyer = px.bar(
-            buyer_share,
-            x='mes',
-            y='Porcentaje',
-            color='buyer_type',
-            text=buyer_share['Porcentaje'].apply(lambda x: f"{x:.1f}%"),
-            barmode='stack',
-            color_discrete_sequence=px.colors.qualitative.Pastel,
-            category_orders={'mes': [mes_anterior, mes_actual]}
-        )
-        fig_buyer.update_layout(
-            yaxis=dict(
-                title='Porcentaje (%)',
-                range=[0, 100],
-                gridcolor='lightgray',
-                tickfont=dict(color='black'),
-                title_font=dict(color='black')
-            ),
-            xaxis=dict(
-                title='Mes',
-                tickfont=dict(color='black'),
-                title_font=dict(color='black')
-            ),
-            plot_bgcolor='white',
-            paper_bgcolor='white',
-            font=dict(color='black'),
-            legend_title_text='Buyer Type',
-            legend=dict(font=dict(color='black')),
-            height=400
-        )
-        fig_buyer.update_traces(textposition='inside', textfont_color='black')
-        st.plotly_chart(fig_buyer, use_container_width=True)
+
+        # Mostrar como tabla con barras horizontales embebidas (visualización tipo "bar chart in table")
+        def bar_html(pct, color="#4682B4"):
+            width = min(max(pct, 0), 100)
+            return f'''
+                <div style="background:#f0f0f0; border-radius:4px; width:100%; height:18px; position:relative;">
+                    <div style="background:{color}; width:{width}%; height:100%; border-radius:4px;"></div>
+                    <span style="position:absolute; left:8px; top:0; color:#222; font-size:0.85rem; font-weight:600;">{pct:.1f}%</span>
+                </div>
+            '''
+
+        table_html = "<table style='width:100%; border-collapse:collapse;'>"
+        # Quitar el título de la columna de buyer_type (dejar celda vacía)
+        table_html += "<tr><th style='width:2px;'></th>"
+        table_html += f"<th style='text-align:left;'>{mes_anterior.capitalize()}</th>"
+        table_html += f"<th style='text-align:left;'>{mes_actual.capitalize()}</th></tr>"
+
+        for buyer in sorted(buyer_share['buyer_type'].unique()):
+            row = buyer_share[buyer_share['buyer_type'] == buyer]
+            pct_ant = row[row['mes'] == mes_anterior]['Porcentaje'].values[0] if mes_anterior in row['mes'].values else 0
+            pct_act = row[row['mes'] == mes_actual]['Porcentaje'].values[0] if mes_actual in row['mes'].values else 0
+            # Añadir espacio de 1cm entre la columna de buyer y las barras
+            # Usar white-space:nowrap para evitar quiebre de línea en buyer_type
+            table_html += (
+                f"<tr>"
+                f"<td style='white-space:nowrap'>{buyer}</td>"
+                f"<td style='padding-left:2cm'>{bar_html(pct_ant, '#20B2AA')}</td>"
+                f"<td style='padding-left:2cm'>{bar_html(pct_act, '#FF7F50')}</td>"
+                f"</tr>"
+            )
+
+        table_html += "</table>"
+        st.markdown(table_html, unsafe_allow_html=True)
     else:
         st.info("No hay columna 'buyer_type' en los datos.")
+
+    st.divider()
 
     # Gráfico 3: Distribución por spender_type
     st.subheader("💸 Distribución de Spender Type en Compras No Aprobadas")
     if 'spender_type' in not_approved_df.columns:
+        # Filtrar spender_types distintos a 'non_spender'
+        spender_filtered = not_approved_df[not_approved_df['spender_type'].str.lower() != 'non_spender']
         spender_share = (
-            not_approved_df.groupby(['mes', 'spender_type'])['incoming_amt']
+            spender_filtered.groupby(['mes', 'spender_type'])['incoming_amt']
             .sum()
             .reset_index()
         )
         spender_share = spender_share.merge(total_by_mes, on='mes')
         spender_share['Porcentaje'] = (spender_share['incoming_amt'] / spender_share['Total_mes']) * 100
         spender_share = spender_share[spender_share['mes'].isin([mes_anterior, mes_actual])]
-        fig_spender = px.bar(
-            spender_share,
-            x='mes',
+
+
+        pivot_bar = spender_share.pivot(index='spender_type', columns='mes', values='Porcentaje').fillna(0)
+        all_types = sorted(spender_share['spender_type'].unique())
+        pivot_bar = pivot_bar.reindex(all_types)
+        bar_df = pivot_bar.reset_index().melt(id_vars='spender_type', var_name='mes', value_name='Porcentaje')
+
+        fig_bar = px.bar(
+            bar_df,
+            x='spender_type',
             y='Porcentaje',
-            color='spender_type',
-            text=spender_share['Porcentaje'].apply(lambda x: f"{x:.1f}%"),
-            barmode='stack',
-            color_discrete_sequence=px.colors.qualitative.Set2,
-            category_orders={'mes': [mes_anterior, mes_actual]}
+            color='mes',
+            barmode='group',
+            color_discrete_sequence=['#2c5aa0 ', "#772e0f"],
+            category_orders={'mes': [mes_anterior, mes_actual], 'spender_type': all_types}
         )
-        fig_spender.update_layout(
-            yaxis=dict(
-                title='Porcentaje (%)',
-                range=[0, 100],
-                gridcolor='lightgray',
-                tickfont=dict(color='black'),
-                title_font=dict(color='black')
-            ),
-            xaxis=dict(
-                title='Mes',
-                tickfont=dict(color='black'),
-                title_font=dict(color='black')
-            ),
+        fig_bar.update_layout(
+            height=500,
             plot_bgcolor='white',
             paper_bgcolor='white',
             font=dict(color='black'),
-            legend_title_text='Spender Type',
             legend=dict(font=dict(color='black')),
-            height=400
+            xaxis_title="Spender Type",
+            yaxis_title="Porcentaje (%)"
         )
-        fig_spender.update_traces(textposition='inside', textfont_color='black')
-        st.plotly_chart(fig_spender, use_container_width=True)
-    else:
-        st.info("No hay columna 'spender_type' en los datos.")
-else:
-    st.info("No hay compras no aprobadas para mostrar.")
+        fig_bar.update_xaxes(
+            tickfont=dict(color='black'),
+            title_font=dict(color='black'),
+        )
+        fig_bar.update_yaxes(
+            tickfont=dict(color='black'),
+            title_font=dict(color='black'),
+            gridcolor='lightgray'
+        )
+        fig_bar.update_traces(texttemplate='%{y:.1f}%', textposition='outside')
+        st.plotly_chart(fig_bar, use_container_width=True)
