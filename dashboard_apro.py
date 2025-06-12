@@ -399,3 +399,79 @@ if not rejected_df.empty:
         st.info("No hay datos de rechazos para mostrar")
 else:
     st.info("No hay rechazos registrados en el período seleccionado")
+
+
+#creo un grafico que me muestre el share de status
+
+st.subheader("📊 Status de Compras No Aprobadas")
+
+# Filtrar solo los no aprobados
+not_approved_df = filtered_df[(filtered_df['Status'] != 'Approved') & (filtered_df['Status'] != 'Pending')]
+
+if not not_approved_df.empty:
+    # Agrupar por mes y status, sumar Incoming_amt
+    status_share = (
+        not_approved_df.groupby(['mes', 'Status'])['Incoming_amt']
+        .sum()
+        .reset_index()
+    )
+    # Calcular el total de Incoming_amt no aprobado por mes
+    total_by_mes = (
+        not_approved_df.groupby('mes')['Incoming_amt']
+        .sum()
+        .reset_index()
+        .rename(columns={'Incoming_amt': 'Total_mes'})
+    )
+    # Merge para calcular el porcentaje
+    status_share = status_share.merge(total_by_mes, on='mes')
+    status_share['Porcentaje'] = (status_share['Incoming_amt'] / status_share['Total_mes']) * 100
+
+
+    color_palette = [
+        "#ffe5cc",  # muy claro, naranja pastel
+        "#ffd8b3",  # naranja muy suave
+        "#ffcc99",  # naranja claro
+        "#ffb380",  # naranja pastel medio
+        "#ff9966",  # naranja suave
+        "#e6a87c",  # marrón claro opaco
+        "#d9a066",  # marrón claro, formal
+        "#bfa380",  # marrón grisáceo claro
+        "#a67c52",  # marrón opaco, formal
+        "#8c6e54"   # marrón grisáceo más oscuro
+    ]
+
+    fig = px.bar(
+        status_share,
+        x='mes',
+        y='Porcentaje',
+        color='Status',
+        text=status_share['Porcentaje'].apply(lambda x: f"{x:.1f}%"),
+        barmode='stack',
+        color_discrete_sequence=color_palette,
+        category_orders={'mes': ['abril', 'mayo']}
+    )
+    fig.update_layout(
+        yaxis=dict(
+            title='Porcentaje (%)',
+            range=[0, 100],
+            gridcolor='lightgray',  # Líneas horizontales grises
+            tickfont=dict(color='black'),
+            title_font=dict(color='black')
+        ),
+        xaxis=dict(
+            title='Mes',
+            tickfont=dict(color='black'),
+            title_font=dict(color='black')
+        ),
+        plot_bgcolor='white',
+        paper_bgcolor='white',
+        font=dict(color='black'),
+        legend_title_text='Status',
+        legend=dict(font=dict(color='black')),
+        height=400
+    )
+    fig.update_traces(textposition='inside', textfont_color='black')
+    st.plotly_chart(fig, use_container_width=True)
+
+else:
+    st.info("No hay compras no aprobadas para mostrar.")
