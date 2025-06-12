@@ -1,0 +1,1468 @@
+mes,site,Medio_de_pago,Incoming_amt,Incoming_qty,Status,BUYER_TYPE,FREQUENCY_MP,LIFECYCLE,SPENDER_TYPE
+NULL,MCO,credit card,46.08,1,Rej. by PF,Repeat Buyer,,active_buyer_mid,ultra_high_spender
+May,MCO,credit card,25.24,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+NULL,MCO,debit card,138.76,1,Rej. by Risk Bank - App. by PF,New Buyer,,onboarding,high_spender
+April,MCO,credit card,16.42,1,Approved,Repeat Buyer,,active_buyer_low,mid_spender
+NULL,MCO,debit card,17.52,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+May,MCO,credit card,55.02,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+May,MCO,debit card,78.48,1,Insufficient Amount,New Buyer,,active_buyer_low,mid_high_spender
+May,MCO,debit card,18.44,1,Approved,Repeat Buyer,,active_buyer_mid,high_spender
+April,MCO,debit card,78.22,1,Approved,Repeat Buyer,,active_buyer_high,high_spender
+May,MCO,debit card,15.09,1,Approved,Repeat Buyer,,onboarding,low_spender
+May,MCO,debit card,15.39,1,Approved,New Buyer,,onboarding,ultra_high_spender
+April,MCO,bank transfer,18.15,1,Approved,Repeat Buyer,,onboarding,ultra_high_spender
+April,MCO,credit card,19.12,1,Approved,Repeat Buyer,,active_buyer_low,mid_spender
+April,MCO,credit card,2183.82,1,Rej. by PF,Repeat Buyer,,active_buyer_low,ultra_high_spender
+April,MCO,credit card,6.92,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+NULL,MCO,credit card,46.08,1,Rej. by PF,New Buyer,,active_buyer_mid,ultra_high_spender
+May,MCO,credit card,65.96,1,Approved,Repeat Buyer,,active_buyer_low,mid_high_spender
+April,MCO,credit card,21.24,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,,active_buyer_high,ultra_high_spender
+April,MCO,bank transfer,21.1,1,Approved,New Buyer,,onboarding,ultra_high_spender
+NULL,MCO,account_money,13.14,1,Approved,Repeat Buyer,,active_buyer_low,low_spender
+April,MCO,credit card,82.23,1,Approved,Repeat Buyer,,active_buyer_high,high_spender
+May,MCO,credit card,48.29,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+April,MCO,bank transfer,15.43,1,Rej. by Bank Other,New Buyer,,active_buyer_low,low_spender
+May,MCO,bank transfer,13.67,1,Approved,Repeat Buyer,,active_buyer_low,mid_spender
+May,MCO,credit card,16.13,1,Approved,Repeat Buyer,,active_buyer_high,high_spender
+April,MCO,debit card,16.46,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+April,MCO,bank transfer,18.15,1,Approved,New Buyer,,onboarding,ultra_high_spender
+April,MCO,bank transfer,15.36,1,Approved,Repeat Buyer,,active_buyer_mid,mid_spender
+April,MCO,credit card,40.05,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+April,MCO,credit card,18.44,1,Rej. Blacklist,Repeat Buyer,,active_buyer_high,high_spender
+April,MCO,debit card,31.57,1,Approved,Repeat Buyer,,active_buyer_mid,mid_high_spender
+May,MLA,digital_currency,60.17,1,Approved,New Buyer,POWER USER,onboarding,mid_low_spender
+May,MLA,prepaid_card,51.18,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLA,credit card,63.37,1,Rej. by Risk Bank - App. by PF,New Buyer,POWER USER,active_buyer_low,mid_spender
+April,MLA,credit card,20.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+May,MLA,account_money,333.96,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,credit card,50.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLA,credit card,168.75,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,55.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,15.56,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,account_money,29.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,2.79,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLA,account_money,120.42,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,credit card,11.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,debit card,185.73,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLA,credit card,37.29,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,account_money,38.63,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+May,MLA,digital_currency,62.22,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,207.83,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLA,account_money,0.09,1,Approved,New Buyer,CORE,onboarding,low_spender
+May,MLA,prepaid_card,171.09,1,Rej. by User Error,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLA,account_money,39.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,account_money,34.99,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLA,credit card,24.26,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,debit card,527.46,1,Insufficient Amount,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLA,credit card,14.95,1,Cancelled,Repeat Buyer,CORE,active_buyer_mid,high_spender
+May,MLA,credit card,26.59,1,Rej. by Bank Other,Repeat Buyer,CORE,active_buyer_mid,high_spender
+NULL,MLA,credit card,35.44,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,35.44,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLA,credit card,330.1,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,70.84,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLA,credit card,119.95,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+April,MLA,credit card,14.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,158.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,38.38,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,credit card,46.23,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+April,MLA,account_money,77.17,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,655.63,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,bank transfer,42.29,1,Insufficient Amount,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,digital_currency,30.2,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+NULL,MLA,credit card,288.25,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,debit card,155.03,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLA,credit card,78.24,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLA,credit card,28.64,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,digital_currency,32.95,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLA,account_money,13.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLA,credit card,288.64,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,debit card,57.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,account_money,16.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,bank transfer,34.41,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+April,MLA,account_money,1.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+NULL,MLA,account_money,34.68,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,account_money,27.64,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLA,prepaid_card,27.29,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLA,credit card,88.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,digital_currency,38.06,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLA,credit card,71.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLA,account_money,13.13,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,22.95,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,low_spender
+May,MLA,debit card,19.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,31.73,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLA,account_money,27.32,1,Approved,Repeat Buyer,POWER USER,onboarding,mid_low_spender
+May,MLA,account_money,141.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,54.99,1,Approved,New Buyer,NEW,onboarding,mid_high_spender
+April,MLA,debit card,39.96,1,Insufficient Amount,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,prepaid_card,63.26,1,Approved,New Buyer,POWER USER,active_buyer_low,mid_low_spender
+April,MLA,account_money,20,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+May,MLA,debit card,89.78,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,14.62,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLA,credit card,291.51,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_spender
+May,MLA,credit card,10.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,debit card,22.14,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLA,credit card,60.46,1,Rej. by User Error,New Buyer,NEW,active_buyer_low,mid_low_spender
+NULL,MLA,credit card,62.47,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,credit card,67.56,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,56.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,150.71,2,Approved,New Buyer,POWER USER,active_buyer_low,mid_spender
+April,MLA,credit card,9.49,1,Rej. by Risk Bank - App. by PF,New Buyer,POWER USER,active_buyer_low,low_spender
+April,MLA,credit card,47.15,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,debit card,23.9,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_low_spender
+May,MLA,credit card,59.24,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,19.18,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,21.14,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,debit card,28.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,93.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,credit card,48.26,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,account_money,9.11,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+May,MLA,credit card,31.82,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLA,debit card,41.46,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,50.07,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,account_money,14.47,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLA,digital_currency,31.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,9.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLA,credit card,27.9,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,549.98,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLA,account_money,38.24,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLA,prepaid_card,23.37,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,low_spender
+NULL,MLA,credit card,22.95,1,Approved,New Buyer,POWER USER,active_buyer_low,low_spender
+April,MLA,credit card,39.91,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,33.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,35.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,114,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,digital_currency,95.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,digital_currency,26.29,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_low_spender
+May,MLA,credit card,8.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,36.5,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,account_money,28.86,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,account_money,41.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLA,debit card,82.94,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_low_spender
+April,MLA,digital_currency,13.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,55.17,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,44.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_spender
+May,MLA,digital_currency,38.94,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLA,credit card,29.53,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,credit card,76.07,1,Rej. by PF,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,17.64,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,bank transfer,73.5,1,Rej. by PF,New Buyer,CASUAL,active_buyer_low,mid_low_spender
+May,MLA,debit card,185.09,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,account_money,16.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,515.86,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_low,high_spender
+May,MLA,credit card,15.08,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,credit card,28.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,29.91,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLA,credit card,32.22,1,Rej. by User Error,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,digital_currency,94.22,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,credit card,31.93,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,account_money,31.62,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,prepaid_card,51.3,1,Approved,New Buyer,CORE,onboarding,low_spender
+April,MLA,credit card,32.85,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,bank transfer,12.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,28.86,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLA,credit card,59.83,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLA,account_money,18.65,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,credit card,74.29,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,36.11,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,ticket,138.33,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,135.27,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLA,debit card,11.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,28.48,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLA,debit card,658.74,1,Insufficient Amount,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,83.3,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,63.37,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,POWER USER,active_buyer_low,mid_spender
+May,MLA,account_money,15.25,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,credit card,33.28,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLA,ticket,657.95,1,Cancelled,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,credit card,38.48,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,account_money,111.89,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,credit card,24.6,1,Rej. by User Error,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLA,account_money,102.63,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_spender
+May,MLA,credit card,37.32,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,20.03,1,Approved,Repeat Buyer,POWER USER,onboarding,low_spender
+May,MLA,debit card,16.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,credit card,37.57,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_low_spender
+May,MLA,account_money,17.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLA,credit card,27.15,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLA,credit card,28.22,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLA,credit card,96.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLA,prepaid_card,44.17,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLA,credit card,55.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLA,account_money,29.3,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLA,credit card,58.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_spender
+May,MLB,credit card,4.62,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,bank transfer,21.21,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,account_money,20.3,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLB,credit card,23.85,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,credit card,6.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,tc mp,14.61,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,tc mp,22.7,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_spender
+April,MLB,credit card,19.45,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,23.92,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLB,bank transfer,4.64,1,Pending,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,19.24,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,13.9,1,Rej. by PF,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,tc mp,13.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,49.3,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,46.95,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,12.59,1,Approved,Repeat Buyer,NEW,,
+April,MLB,credit card,24.94,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLB,credit card,12.28,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,account_money,2.81,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLB,credit card,64.77,1,Approved,New Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,credit card,122.74,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,37.22,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,tc mp,13.09,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLB,tc mp,464.54,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,25.29,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLB,tc mp,47.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLB,credit card,61.12,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLB,bank transfer,337.09,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,credit card,33.69,1,Rej. by PF,New Buyer,NEW,onboarding,mid_spender
+May,MLB,digital_currency,5.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+April,MLB,bank transfer,20.47,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_spender
+May,MLB,bank transfer,15.74,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,credit card,65.31,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,tc mp,30.15,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,65.69,1,Approved,New Buyer,CASUAL,active_buyer_low,mid_low_spender
+May,MLB,bank transfer,51.12,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+NULL,MLB,credit card,33.5,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,credit card,21.23,2,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLB,bank transfer,6.98,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLB,account_money,16.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,14.95,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_high_spender
+April,MLB,account_money,20.17,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLB,bank transfer,10.83,1,Approved,New Buyer,NEW,active_buyer_mid,mid_spender
+April,MLB,bank transfer,34.98,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,4.25,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_spender
+April,MLB,account_money,19.15,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,bank transfer,11.42,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLB,bank transfer,5.67,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,digital_currency,15.23,1,Approved,New Buyer,CORE,onboarding,low_spender
+May,MLB,bank transfer,48.66,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLB,credit card,32.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,10.91,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,tc mp,14.96,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,credit card,109.21,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,48.76,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,digital_currency,89.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,credit card,34.8,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLB,tc mp,41.07,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLB,credit card,17.78,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLB,bank transfer,5.85,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,33.5,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,credit card,9.6,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,40.3,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+May,MLB,bank transfer,7.74,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,30.13,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,credit card,42.39,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,5.44,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLB,credit card,11.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,credit card,153.21,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,33.75,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,19.97,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,5.27,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+May,MLB,bank transfer,10.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,26.33,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,67.38,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLB,credit card,31.27,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,bank transfer,52.15,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,21.45,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLB,credit card,25.94,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,digital_currency,18.78,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,121.07,1,Rej. by PF,Repeat Buyer,NEW,onboarding,mid_spender
+May,MLB,bank transfer,70.32,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,26.42,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,14.41,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,bank transfer,17.68,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLB,credit card,31.3,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+NULL,MLB,credit card,41.59,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLB,credit card,18.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,35.92,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,credit card,6.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,505.66,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLB,credit card,15.97,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLB,bank transfer,109.39,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,23.52,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,14.44,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,account_money,8.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,credit card,143.21,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,tc mp,14.1,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,124.73,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,16.3,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,account_money,5.69,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLB,credit card,4.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,credit card,11.27,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,tc mp,42.48,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLB,digital_currency,26.39,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,10.3,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLB,credit card,30.41,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLB,credit card,36.05,2,Approved,Repeat Buyer,NEW,active_buyer_low,high_spender
+May,MLB,bank transfer,17.54,1,Pending,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,50.94,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLB,credit card,66.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLB,credit card,17.57,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,07.05,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,credit card,8.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,17.84,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,bank transfer,10.17,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,15.44,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,credit card,11.38,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,tc mp,05.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,48.88,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,bank transfer,8.16,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+April,MLB,credit card,27.22,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,26.48,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,account_money,6.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,tc mp,60.05,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,account_money,47.04,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,14.47,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLB,bank transfer,20,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,5.6,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLB,bank transfer,38.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,tc mp,14.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,4.56,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+NULL,MLB,credit card,27.17,2,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,bank transfer,15.54,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+April,MLB,credit card,24.23,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLB,account_money,45.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_high_spender
+NULL,MLB,credit card,91.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLB,credit card,42.66,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,credit card,61.6,1,Approved,New Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLB,digital_currency,46.25,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,credit card,17.92,1,Rej. by User Error,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,tc mp,27.05,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,99.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,24.16,1,Approved,Repeat Buyer,NEW,,
+April,MLB,tc mp,12.94,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLB,credit card,78.64,2,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,credit card,1.83,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,20.62,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,tc mp,14.99,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,bank transfer,9.24,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,9.12,1,Approved,Repeat Buyer,NEW,,
+April,MLB,credit card,16.79,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+NULL,MLB,bank transfer,06.01,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,bank transfer,33.35,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLB,tc mp,33.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,35.37,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,10.4,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,credit card,141.96,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+May,MLB,credit card,26.68,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLB,bank transfer,31.9,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLB,credit card,11.81,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,bank transfer,20.76,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,12.76,1,Cancelled,Repeat Buyer,CORE,active_buyer_low,mid_low_spender
+April,MLB,tc mp,11.23,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,account_money,10.08,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_low_spender
+April,MLB,bank transfer,36.64,1,Cancelled,New Buyer,NEW,onboarding,mid_spender
+April,MLB,credit card,21.03,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,account_money,35.66,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,credit card,6.8,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,credit card,3.53,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLB,tc mp,6.4,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,credit card,37.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,digital_currency,62.31,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLB,account_money,53.6,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLB,credit card,207.6,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,17.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,35.71,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,credit card,19.17,1,Rej. Blacklist,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,digital_currency,35.17,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLB,credit card,81.69,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+May,MLB,bank transfer,11.84,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,9.13,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,bank transfer,66.79,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLB,ticket,15.48,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+April,MLB,bank transfer,55.5,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,22.77,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,account_money,24.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,64.88,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,credit card,22.85,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,digital_currency,15.34,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,51.68,1,Cancelled,New Buyer,NEW,onboarding,high_spender
+April,MLB,credit card,20.37,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,41.1,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,11.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,21.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,digital_currency,15.94,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_low_spender
+NULL,MLB,credit card,44.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,8.36,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,bank transfer,24.76,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLB,account_money,17.25,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,13.32,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,10.85,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLB,tc mp,140.31,1,Rej. Blacklist,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,tc mp,18.79,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,bank transfer,14.87,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,25.02,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,72.94,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,11.31,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLB,account_money,5.18,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,bank transfer,57.15,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLB,bank transfer,25.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,29.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,credit card,253.8,1,Rej. by Bank Other,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLB,credit card,216.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,digital_currency,21.11,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+April,MLB,credit card,7.6,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,149.24,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,account_money,33.07,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,credit card,363.45,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,bank transfer,09.08,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLB,bank transfer,5.24,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+May,MLB,credit card,11,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,21.26,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,10.41,1,Approved,Repeat Buyer,NEW,dormant,mid_high_spender
+May,MLB,account_money,11.47,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,credit card,7.7,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,bank transfer,23.38,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,credit card,16.65,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,bank transfer,7.36,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLB,credit card,50.12,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,credit card,61.36,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,22.76,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLB,bank transfer,49.07,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,7.33,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,69.07,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,29.64,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,98.97,1,Rej. Blacklist,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,bank transfer,208.28,1,Cancelled,Repeat Buyer,CASUAL,active_buyer_low,mid_high_spender
+April,MLB,account_money,15.9,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,10.35,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,9.65,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLB,bank transfer,31.5,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLB,account_money,14.97,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLB,credit card,6.82,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+April,MLB,tc mp,22.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+April,MLB,bank transfer,27.35,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+NULL,MLB,credit card,60.88,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,71.45,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLB,account_money,10.4,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLB,credit card,19.12,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLB,bank transfer,14.11,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+NULL,MLB,bank transfer,6.24,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLB,credit card,10.33,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLB,bank transfer,42.9,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLB,bank transfer,24.48,1,Approved,New Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLB,account_money,15.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,credit card,27.27,1,Cancelled,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+April,MLB,credit card,10.63,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,bank transfer,10.34,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLB,digital_currency,33.43,1,Approved,Repeat Buyer,POWER USER,onboarding,mid_spender
+NULL,MLB,tc mp,803.86,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,credit card,20.86,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,tc mp,37.41,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,ticket,143.96,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+April,MLB,credit card,31.86,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,account_money,10.71,1,Approved,Repeat Buyer,POWER USER,,
+May,MLB,credit card,6.77,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLB,bank transfer,15.97,1,Approved,Repeat Buyer,NEW,,
+May,MLB,digital_currency,15.23,1,Approved,Repeat Buyer,CORE,onboarding,low_spender
+April,MLB,credit card,55.51,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+NULL,MLB,account_money,36.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,credit card,71.08,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,286.09,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_high_spender
+April,MLB,credit card,25.38,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLB,credit card,9.65,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+May,MLB,bank transfer,30.09,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+April,MLB,digital_currency,28.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,digital_currency,8.39,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_low_spender
+April,MLB,bank transfer,9.65,1,Approved,Repeat Buyer,NEW,onboarding,low_spender
+May,MLB,bank transfer,36.82,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLB,bank transfer,11.87,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLB,bank transfer,10.83,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+NULL,MLB,bank transfer,6.53,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,81.22,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,13.61,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLB,account_money,7.55,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,account_money,5.26,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,15.92,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLB,account_money,8.12,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLB,credit card,8.19,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+NULL,MLB,bank transfer,42.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,16.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,27.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,account_money,4.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,4.62,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+NULL,MLB,account_money,42.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,11.3,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,353.68,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,credit card,68.61,1,Approved,New Buyer,NEW,active_buyer_low,mid_spender
+May,MLB,credit card,64.79,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLB,credit card,06.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,digital_currency,10.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,credit card,45.09,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,21.83,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,digital_currency,74.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLB,tc mp,22.34,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,tc mp,11.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLB,credit card,12.67,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLB,credit card,201.14,1,Rej. by User Error,New Buyer,,churned,non_spender
+May,MLB,credit card,21.66,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLB,tc mp,22.91,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_low_spender
+May,MLB,digital_currency,29.41,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLB,credit card,132.48,1,Rej. by PF,New Buyer,,onboarding,ultra_high_spender
+May,MLB,credit card,29.83,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,credit card,15.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,credit card,53.9,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLB,bank transfer,17.46,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLB,bank transfer,25.54,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLB,bank transfer,26.83,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,credit card,19.13,1,Approved,Repeat Buyer,CORE,never_buyer,non_spender
+April,MLB,bank transfer,104.46,1,Cancelled,New Buyer,NEW,onboarding,mid_low_spender
+April,MLB,credit card,94.16,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLB,bank transfer,12.41,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,bank transfer,49.45,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,27.24,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLB,digital_currency,26.88,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+May,MLB,tc mp,42.28,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLB,bank transfer,16.45,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLB,credit card,15.56,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,12.46,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLB,credit card,161.92,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,23.29,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLB,bank transfer,13.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLB,account_money,6.39,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLB,credit card,21.12,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLB,credit card,4.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLB,tc mp,5.24,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLB,bank transfer,14.61,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLB,credit card,544.31,1,Rej. by User Error,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLB,credit card,27.58,2,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLB,tc mp,838.42,2,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLB,bank transfer,21.18,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLB,bank transfer,63.39,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLB,credit card,9.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLB,credit card,17.02,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,credit card,14.91,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLC,credit card,91.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,debit card,16.68,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,credit card,47.59,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLC,credit card,23.6,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,account_money,12.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLC,credit card,20.4,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,credit card,168.45,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLC,debit card,19.13,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLC,debit card,36.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLC,account_money,16.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLC,credit card,57.8,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLC,debit card,5.59,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLC,debit card,25.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,credit card,23.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLC,account_money,10.05,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLC,credit card,69.22,1,Approved,New Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLC,account_money,150.69,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLC,credit card,136.28,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLC,debit card,56.95,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+NULL,MLC,debit card,32.55,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,debit card,30.68,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLC,account_money,21.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLC,debit card,33.34,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,debit card,74.72,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLC,debit card,26.31,1,Approved,Repeat Buyer,NEW,onboarding,mid_low_spender
+NULL,MLC,debit card,31.85,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLC,credit card,54.88,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLC,account_money,35.69,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+May,MLC,account_money,26.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLC,credit card,132.9,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLC,credit card,178.75,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLC,debit card,12.06,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLC,debit card,19.55,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+May,MLC,debit card,137.59,1,Insufficient Amount,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLC,debit card,47,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+April,MLC,debit card,118.23,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLC,credit card,5.86,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLC,credit card,36.1,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,account_money,0.49,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLC,debit card,25.64,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLC,credit card,87.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,debit card,23.26,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,credit card,199.14,2,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLC,debit card,22.18,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLC,credit card,132.9,1,Approved,New Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLC,debit card,51.13,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLC,debit card,17.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,debit card,47.07,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_high_spender
+April,MLC,account_money,45.58,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLC,credit card,16.38,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLC,debit card,303.53,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLC,credit card,75.7,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLC,debit card,59.21,1,Approved,Repeat Buyer,NEW,active_buyer_low,high_spender
+May,MLC,account_money,16.17,1,Approved,Repeat Buyer,POWER USER,,
+May,MLC,credit card,31.52,1,Approved,Repeat Buyer,CORE,,
+NULL,MLC,credit card,38.41,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,debit card,46.03,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLC,debit card,21.52,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+NULL,MLC,account_money,11.7,1,Approved,Repeat Buyer,POWER USER,,
+NULL,MLC,credit card,57.77,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLC,debit card,22.97,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLC,debit card,21.02,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLC,account_money,84.03,1,Approved,Repeat Buyer,POWER USER,,
+May,MLC,account_money,26.34,1,Approved,Repeat Buyer,POWER USER,onboarding,mid_high_spender
+April,MLC,debit card,31.08,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLC,debit card,181.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,credit card,30.8,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,debit card,12.32,1,Approved,New Buyer,NEW,onboarding,mid_spender
+NULL,MLC,credit card,10.6,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLC,account_money,42.82,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLC,credit card,27.29,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,debit card,12.28,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLC,debit card,16.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+May,MLC,debit card,191.36,1,Approved,New Buyer,NEW,onboarding,mid_high_spender
+May,MLC,account_money,33.19,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+May,MLC,debit card,24.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLC,credit card,27.74,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLC,debit card,27.72,1,Approved,Repeat Buyer,POWER USER,onboarding,mid_low_spender
+NULL,MLC,debit card,25.48,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,credit card,166.4,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLC,debit card,21.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLC,account_money,42.25,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_spender
+April,MLC,credit card,32.44,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLC,credit card,44.56,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,credit card,23.52,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLC,debit card,39.28,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,credit card,35.19,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLC,account_money,178.33,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLC,digital_currency,22.42,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLC,debit card,21.26,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+April,MLC,credit card,37.64,2,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLC,credit card,27.25,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLC,credit card,24.32,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLC,account_money,0.26,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLC,credit card,45.5,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLC,credit card,42.57,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLC,debit card,42.43,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+April,MLC,credit card,31.47,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,32.6,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,70.67,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,credit card,58.75,1,Insufficient Amount,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,account_money,16.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLM,tc mp,3.4,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,39.03,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+NULL,MLM,debit card,12.2,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,36.39,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,ticket,88.34,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,debit card,163.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,tc mp,17.66,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,tc mp,100.17,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,digital_currency,12.47,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,account_money,41.25,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+May,MLM,debit card,122.21,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,debit card,08.07,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,credit card,24.33,1,Approved,New Buyer,NEW,active_buyer_low,mid_high_spender
+NULL,MLM,digital_currency,83.06,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,credit card,56.14,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,tc mp,13.55,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,13.23,1,Rej. by User Error,New Buyer,NEW,onboarding,ultra_high_spender
+May,MLM,credit card,14.35,1,Rej. by PF,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,49.1,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,21.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,123.85,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,debit card,15.59,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+NULL,MLM,debit card,15.55,1,Approved,Repeat Buyer,NEW,onboarding,mid_spender
+NULL,MLM,debit card,18.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,290.33,1,Approved,Repeat Buyer,NEW,onboarding,ultra_high_spender
+May,MLM,credit card,173.68,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,debit card,511.3,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,digital_currency,95.5,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,ticket,127.15,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,66.4,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,debit card,106.19,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,digital_currency,24.03,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLM,debit card,35.07,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,15.34,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,ticket,13.47,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,42.26,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,37.79,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,tc mp,9.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLM,ticket,28.7,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,bank transfer,20.45,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,credit card,27.13,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,credit card,15.67,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+April,MLM,debit card,56.34,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,credit card,68.06,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,18.57,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,11.02,1,Approved,New Buyer,NEW,onboarding,mid_high_spender
+April,MLM,debit card,23.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,digital_currency,9.3,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,1055.68,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,tc mp,114.65,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,11.45,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+April,MLM,account_money,28.84,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,tc mp,14.38,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,42.51,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,account_money,29.46,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,507.23,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_high_spender
+April,MLM,digital_currency,14.78,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,credit card,186.39,2,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,credit card,24.11,2,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,debit card,65.39,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,bank transfer,28.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,58.85,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,tc mp,63.33,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,253.8,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,credit card,134.01,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,digital_currency,12.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,bank transfer,18.27,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,credit card,18.89,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,digital_currency,26.24,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,326.52,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+April,MLM,credit card,21.32,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLM,debit card,16.55,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+NULL,MLM,credit card,29.11,2,Approved,Repeat Buyer,NEW,active_buyer_low,ultra_high_spender
+May,MLM,ticket,30.98,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,574.38,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,credit card,60.51,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,credit card,36.07,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,30.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,debit card,58.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,30.15,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,13.95,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,30.79,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,tc mp,20.22,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,11.58,1,Approved,New Buyer,NEW,onboarding,low_spender
+NULL,MLM,account_money,1.1,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,48.57,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,208.7,1,Insufficient Amount,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,16.87,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,account_money,13.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,30.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,debit card,106.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,18.45,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,16.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,70.77,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,debit card,18.94,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,09.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,account_money,40.16,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,ticket,17.19,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+April,MLM,tc mp,19.92,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,27.62,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+April,MLM,credit card,73.71,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLM,ticket,19.95,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,18.04,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,14.53,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLM,debit card,14.93,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,credit card,58.73,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,22.54,1,Insufficient Amount,Repeat Buyer,,active_buyer_mid,mid_high_spender
+May,MLM,account_money,20.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,32.55,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,32.95,1,Approved,New Buyer,NEW,onboarding,low_spender
+NULL,MLM,credit card,973.28,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,117.4,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,bank transfer,24.39,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,22.38,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,debit card,1425.44,1,Rej. by PF,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,account_money,4.92,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+NULL,MLM,digital_currency,119.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,15.72,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,tc mp,32.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,29.49,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLM,digital_currency,44.27,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,tc mp,9.97,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,8.62,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,tc mp,34.18,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,bank transfer,36.45,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,debit card,85.08,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,debit card,19.86,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,115.79,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,35.47,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,debit card,19.54,1,Rej. by User Error,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,account_money,26.93,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,account_money,13.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,94.26,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,15.51,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+April,MLM,credit card,64.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,9.28,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,bank transfer,25.76,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,digital_currency,47.65,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+NULL,MLM,credit card,61.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,61.04,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+NULL,MLM,debit card,149.84,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,tc mp,62.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,18.74,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,44.12,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+April,MLM,debit card,43.8,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,debit card,34.29,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,25.79,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,120.6,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,ticket,15.41,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,ultra_high_spender
+April,MLM,digital_currency,26.72,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+NULL,MLM,account_money,89.09,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,12.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,account_money,37.76,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,credit card,38.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLM,credit card,28.07,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,tc mp,1.38,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,47.2,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,tc mp,186.26,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,digital_currency,18.44,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,debit card,117.4,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,296.05,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+May,MLM,atm,57.3,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,104.03,1,Rej. by User Error,Repeat Buyer,,active_buyer_mid,mid_high_spender
+April,MLM,bank transfer,17.2,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_low_spender
+April,MLM,ticket,22.07,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLM,debit card,21.42,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,debit card,10.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,149.31,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,32.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,66.18,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,ticket,10.12,1,Cancelled,New Buyer,,onboarding,low_spender
+NULL,MLM,credit card,46.74,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,ticket,13.3,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,credit card,30.08,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,30.8,1,Rej. by User Error,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,debit card,62.88,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,17.2,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,ticket,19.4,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLM,debit card,19.81,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,65.87,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,debit card,24.26,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,47.62,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,ticket,26.82,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+May,MLM,debit card,20.64,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,112.84,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,bank transfer,66.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,12.09,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,ticket,25.89,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,26.59,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+NULL,MLM,credit card,25.06,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+NULL,MLM,ticket,28.93,1,Approved,Repeat Buyer,NEW,onboarding,mid_spender
+April,MLM,tc mp,79,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,ticket,15.34,1,Approved,Repeat Buyer,NEW,onboarding,mid_low_spender
+May,MLM,debit card,21.15,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,24.09,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,digital_currency,17.99,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,127.54,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,credit card,93.33,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,credit card,33.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,9.92,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLM,debit card,14.15,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,digital_currency,18.37,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+April,MLM,digital_currency,33.36,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,credit card,353.01,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,digital_currency,24.39,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,62.67,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,debit card,33.55,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,29.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,22.66,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,64.37,1,Approved,Repeat Buyer,CORE,active_buyer_mid,high_spender
+May,MLM,account_money,28.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,credit card,20.68,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,account_money,90.84,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,credit card,54.09,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,tc mp,31.9,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,33.99,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,215.89,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,account_money,124.47,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,debit card,58.22,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+May,MLM,bank transfer,14.39,1,Cancelled,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,ticket,234.98,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+April,MLM,debit card,20.26,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,account_money,19.72,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,digital_currency,30.99,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+NULL,MLM,debit card,50.6,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,92.35,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,credit card,26.69,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,12.19,1,Rej. by User Error,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,23.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+May,MLM,tc mp,302.44,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,9.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,66.48,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,account_money,25.77,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,38.3,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,ticket,15.97,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLM,credit card,147.47,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,33.26,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,digital_currency,28,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,23.14,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,bank transfer,20.66,1,Approved,Repeat Buyer,CASUAL,onboarding,mid_spender
+April,MLM,debit card,34.72,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+NULL,MLM,bank transfer,11.91,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,tc mp,18.34,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,38.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,credit card,15.7,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLM,digital_currency,52.6,1,Approved,Repeat Buyer,NEW,onboarding,mid_low_spender
+April,MLM,debit card,20.67,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,digital_currency,29.21,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_low_spender
+April,MLM,credit card,33.82,2,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,account_money,20.53,1,Approved,Repeat Buyer,NEW,active_buyer_mid,ultra_high_spender
+May,MLM,debit card,47.77,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,credit card,119.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,37.25,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,digital_currency,28.82,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,ticket,20.35,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+NULL,MLM,credit card,59.57,2,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,156.11,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,tc mp,114.46,1,Rej. by Bank Other,New Buyer,NEW,active_buyer_mid,ultra_high_spender
+May,MLM,credit card,600.32,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,35.94,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,33.71,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,debit card,44.57,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,credit card,55.25,2,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,digital_currency,20.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,23.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,13.08,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,20.15,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+NULL,MLM,account_money,274.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,13.81,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLM,digital_currency,10.57,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_low_spender
+April,MLM,bank transfer,16.67,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,digital_currency,19.23,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,debit card,20.57,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,33.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,73.19,1,Rej. Blacklist,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,debit card,15.69,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,14.97,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLM,debit card,24.22,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+May,MLM,debit card,241.33,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,credit card,538.12,1,Insufficient Amount,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,credit card,122.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,tc mp,19.13,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,bank transfer,15.06,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,debit card,19.46,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,debit card,66.53,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,156.5,1,Insufficient Amount,Repeat Buyer,CASUAL,dormant,low_spender
+May,MLM,tc mp,10.54,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,70.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLM,account_money,12.86,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,digital_currency,38.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,13.73,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+May,MLM,digital_currency,51.82,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,account_money,2.77,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,digital_currency,74.05,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,digital_currency,14.29,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,debit card,197.73,1,Approved,Repeat Buyer,NEW,,
+April,MLM,debit card,25.4,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,tc mp,26.82,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,45.49,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,15.98,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,31.25,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,account_money,130.77,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,debit card,10.78,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,52.2,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,ticket,52.19,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,ultra_high_spender
+May,MLM,debit card,12.93,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+April,MLM,credit card,53.62,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,digital_currency,51.61,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,91.58,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+April,MLM,debit card,38.8,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,credit card,76.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,366.87,1,Rej. Blacklist,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,credit card,16.5,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLM,credit card,84.49,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,83.83,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,debit card,27.78,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,debit card,10.88,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,credit card,36.46,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,ticket,17.8,1,Cancelled,Repeat Buyer,,active_buyer_low,low_spender
+April,MLM,debit card,18.47,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,digital_currency,16.19,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+NULL,MLM,tc mp,16.7,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,tc mp,27.01,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,account_money,12.76,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,digital_currency,8.31,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_spender
+May,MLM,debit card,11.95,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,17.34,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLM,debit card,47.82,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,credit card,44.18,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,account_money,28.23,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLM,credit card,50.69,1,Cancelled,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,tc mp,54.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,16.5,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+April,MLM,debit card,48.96,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,tc mp,72.66,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,credit card,48.02,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,account_money,19.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,32.51,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,debit card,39.07,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,14.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,11.9,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,6.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,11.22,1,Insufficient Amount,New Buyer,,onboarding,high_spender
+May,MLM,ticket,15.34,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+May,MLM,tc mp,16.62,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,debit card,50.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,101.11,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,,active_buyer_mid,mid_high_spender
+April,MLM,debit card,17.03,1,Approved,Repeat Buyer,CORE,active_buyer_low,low_spender
+April,MLM,ticket,16.05,1,Cancelled,Repeat Buyer,,active_buyer_low,low_spender
+May,MLM,debit card,13.76,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+NULL,MLM,bank transfer,20.76,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_mid,mid_low_spender
+May,MLM,account_money,17.37,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+May,MLM,account_money,11.56,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,77.39,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLM,debit card,28.65,1,Rej. by Bank Other,New Buyer,NEW,onboarding,ultra_high_spender
+May,MLM,digital_currency,155.06,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,ticket,18.18,1,Cancelled,New Buyer,,onboarding,ultra_high_spender
+NULL,MLM,credit card,109.75,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,credit card,47.79,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,credit card,10.46,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,tc mp,15.34,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,digital_currency,23.42,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+NULL,MLM,account_money,24.2,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,54.37,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+May,MLM,account_money,15.78,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,debit card,29.61,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLM,account_money,9.75,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,107.29,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,credit card,83.54,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,15.62,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,digital_currency,16.97,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,28.19,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,debit card,23.43,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,tc mp,33.1,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,16.39,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLM,credit card,35.65,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,tc mp,17.42,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,19.71,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,14.27,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,35.52,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,173.3,1,Insufficient Amount,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,18.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,20.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,account_money,508.16,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,credit card,18.03,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,23.82,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,credit card,45.99,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,16.16,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_low_spender
+April,MLM,tc mp,34.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+NULL,MLM,digital_currency,25.13,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLM,debit card,19.8,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLM,digital_currency,9.83,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,account_money,7.63,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,40.62,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,10.15,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,digital_currency,56.12,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,56.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,34.02,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,debit card,22.5,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,115.41,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,credit card,29.16,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,account_money,70.98,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,credit card,17.89,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,6.83,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,1.26,1,Rej. by Risk Bank - App. by PF,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,bank transfer,93.97,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+NULL,MLM,tc mp,29,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLM,bank transfer,21.54,1,Approved,Repeat Buyer,NEW,onboarding,mid_spender
+May,MLM,tc mp,23.84,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,tc mp,545.92,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,52.32,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,23.98,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,tc mp,27.59,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,34.29,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,tc mp,139.2,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,bank transfer,16.19,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,credit card,16.34,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLM,debit card,16.59,1,Rej. by Risk Bank - App. by PF,New Buyer,NEW,onboarding,low_spender
+April,MLM,credit card,40.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+May,MLM,account_money,01.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,91.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,97.35,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,digital_currency,15.69,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,21.85,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,29.87,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+May,MLM,debit card,25.82,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,tc mp,30.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,53.11,1,Rej. by User Error,New Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,digital_currency,143.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,digital_currency,15.79,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,account_money,93.21,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,30.64,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,credit card,18.4,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,10.23,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,21.06,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,83.01,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,19.98,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+NULL,MLM,debit card,377.08,1,Approved,Repeat Buyer,NEW,active_buyer_mid,ultra_high_spender
+May,MLM,account_money,30.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,23.28,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLM,debit card,38.38,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+May,MLM,account_money,39.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLM,debit card,12.07,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_high_spender
+April,MLM,ticket,10.72,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,39.91,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,account_money,8.6,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,digital_currency,20.02,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_low_spender
+April,MLM,digital_currency,62.2,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+April,MLM,debit card,17.68,1,Rej. by User Error,New Buyer,,active_buyer_low,low_spender
+NULL,MLM,digital_currency,3.1,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,27.65,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,65.89,2,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,debit card,15.15,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,debit card,63.27,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,82.13,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,credit card,77.59,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,atm,37.83,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,ticket,65.8,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,ultra_high_spender
+NULL,MLM,account_money,15.68,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,debit card,13.26,1,Approved,Repeat Buyer,NEW,onboarding,mid_low_spender
+April,MLM,debit card,39.52,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,digital_currency,20.69,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,169.01,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,credit card,206.9,1,Rej. by User Error,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,40.04,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,15.56,1,Rej. by User Error,New Buyer,NEW,onboarding,mid_spender
+May,MLM,ticket,26.93,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,tc mp,18.18,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,24.48,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLM,debit card,21.83,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,63.27,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,debit card,38.38,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,account_money,45.96,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,19.46,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLM,debit card,10.06,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,10.81,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,debit card,54.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,11.18,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+NULL,MLM,debit card,50.17,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_spender
+NULL,MLM,debit card,85.49,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLM,debit card,365.17,1,Insufficient Amount,Repeat Buyer,CASUAL,active_buyer_mid,high_spender
+May,MLM,debit card,19.05,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,digital_currency,71.78,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,19.37,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,ticket,250.26,1,Cancelled,Repeat Buyer,CORE,active_buyer_mid,high_spender
+NULL,MLM,tc mp,33.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,19.52,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,debit card,19.09,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,tc mp,66.01,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,34.45,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,digital_currency,19.31,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,credit card,62.91,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,17.01,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,high_spender
+May,MLM,debit card,26.36,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,tc mp,97.22,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,credit card,39.51,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,20.67,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,52.82,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,ticket,28.87,1,Cancelled,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,tc mp,40.92,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,23.79,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,debit card,18.49,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLM,ticket,19.14,1,Cancelled,New Buyer,NEW,churned,non_spender
+April,MLM,tc mp,13.43,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,debit card,28.96,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,digital_currency,23.51,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,9.92,1,Approved,Repeat Buyer,NEW,onboarding,low_spender
+April,MLM,debit card,30.64,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLM,debit card,200.3,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,12.62,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,tc mp,31.48,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,credit card,15.03,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,tc mp,48.31,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,18.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,26.71,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,20.92,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+April,MLM,debit card,28.87,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLM,bank transfer,31.15,1,Cancelled,New Buyer,NEW,active_buyer_low,low_spender
+May,MLM,tc mp,20.23,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_low_spender
+April,MLM,credit card,19.45,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+May,MLM,bank transfer,18.55,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+May,MLM,digital_currency,19.41,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,credit card,19.84,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+April,MLM,digital_currency,22.49,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,28.36,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,account_money,3.68,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,tc mp,46.22,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+NULL,MLM,credit card,82.6,2,Rej. by PF,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,97.05,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,11.79,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+May,MLM,digital_currency,74.2,1,Approved,New Buyer,CORE,churned,non_spender
+May,MLM,debit card,37.26,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,credit card,56.08,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,ticket,15.66,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+May,MLM,debit card,47.37,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,mid_high_spender
+May,MLM,credit card,81.56,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,9.9,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,15.05,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,137.01,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,credit card,16.77,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,debit card,17.41,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,216.07,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,59.45,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,28.46,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,account_money,18.48,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,587.62,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,bank transfer,13.66,1,Cancelled,New Buyer,CASUAL,onboarding,low_spender
+May,MLM,debit card,45.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,account_money,54.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_spender
+April,MLM,debit card,48.96,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,debit card,25.83,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,ticket,18.54,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,87.72,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,25.95,2,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,23.81,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,debit card,27.87,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_low_spender
+May,MLM,bank transfer,17.89,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,ticket,19.77,1,Cancelled,New Buyer,,onboarding,mid_spender
+May,MLM,debit card,62.08,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,credit card,108.71,2,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,account_money,27.94,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_spender
+April,MLM,credit card,43.48,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,47.97,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,tc mp,19.31,2,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,credit card,276.33,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,16.37,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,18,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,bank transfer,20.62,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,debit card,48.23,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,30.1,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,credit card,28.25,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,19.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,1251.9,2,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+NULL,MLM,debit card,16.16,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,credit card,38.72,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,debit card,39.9,1,Approved,Repeat Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,credit card,45.3,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,9.74,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,32.95,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,18.74,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,credit card,12.96,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLM,account_money,29.75,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,digital_currency,35.89,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,ticket,15.94,1,Cancelled,Repeat Buyer,,onboarding,mid_spender
+May,MLM,debit card,392.08,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,credit card,22.82,2,Rej. Blacklist,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,credit card,22.51,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,credit card,26.42,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,debit card,21.07,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,debit card,30.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,21.25,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,debit card,3.54,1,Insufficient Amount,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,digital_currency,24.98,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,account_money,68.05,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,account_money,0.92,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,credit card,87.05,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,11.02,1,Approved,Repeat Buyer,NEW,onboarding,mid_high_spender
+NULL,MLM,credit card,79.29,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,ticket,13.61,1,Cancelled,Repeat Buyer,,active_buyer_low,low_spender
+NULL,MLM,account_money,38.33,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,credit card,33.32,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,digital_currency,33.47,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,debit card,17.03,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,40.8,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,credit card,59.64,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_high_spender
+May,MLM,credit card,134.39,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,44.8,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,46.69,1,Rej. by User Error,New Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,debit card,167.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,tc mp,20.79,2,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,ticket,21.16,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+May,MLM,debit card,22.29,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,17.5,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,14.71,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,credit card,19.75,1,Approved,New Buyer,NEW,onboarding,low_spender
+April,MLM,credit card,44.97,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+NULL,MLM,ticket,18.73,1,Pending,Repeat Buyer,,active_buyer_low,mid_high_spender
+May,MLM,digital_currency,22.25,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,tc mp,31.48,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,credit card,42.01,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,70.14,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,17.99,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_low_spender
+April,MLM,debit card,74.53,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,debit card,39.32,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+May,MLM,account_money,23.18,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,ticket,29.88,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,credit card,25.41,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,44.03,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,tc mp,28.17,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,credit card,24.14,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,23.19,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+May,MLM,ticket,118.06,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+April,MLM,credit card,24.16,2,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+NULL,MLM,tc mp,52.76,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,15.92,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,debit card,19.99,1,Approved,Repeat Buyer,NEW,onboarding,mid_spender
+May,MLM,debit card,9.8,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+NULL,MLM,tc mp,28.68,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,24.62,2,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,72,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,digital_currency,34.99,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,digital_currency,24.5,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,digital_currency,61.78,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+April,MLM,digital_currency,36.53,1,Approved,Repeat Buyer,CORE,onboarding,mid_low_spender
+NULL,MLM,digital_currency,159.39,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,tc mp,16.37,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,34.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+April,MLM,debit card,19.03,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,digital_currency,23.61,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,ticket,23,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLM,debit card,64.57,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,tc mp,17.28,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,17.27,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLM,digital_currency,10.07,1,Approved,Repeat Buyer,CORE,onboarding,low_spender
+NULL,MLM,account_money,69.95,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,10.12,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLM,account_money,20.31,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+April,MLM,ticket,29.99,1,Cancelled,New Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,debit card,25,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,account_money,86.41,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_spender
+April,MLM,credit card,30,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,credit card,74.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,credit card,117.68,2,Approved,Repeat Buyer,CORE,active_buyer_mid,high_spender
+May,MLM,digital_currency,15.51,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,52.42,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,48.19,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,credit card,120.91,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,debit card,15.43,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,debit card,28.01,1,Approved,Repeat Buyer,NEW,onboarding,mid_high_spender
+April,MLM,debit card,59.65,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,account_money,20.32,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,3.93,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,25.49,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,19.86,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,113.66,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,16.98,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,low_spender
+May,MLM,ticket,21,1,Approved,New Buyer,CASUAL,onboarding,low_spender
+April,MLM,credit card,44.07,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,18.42,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,33.19,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,tc mp,25.28,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,176.56,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,72.71,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,credit card,76.17,1,Rej. Blacklist,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,101.19,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_high_spender
+May,MLM,debit card,13.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,38.78,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,account_money,137.41,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,29.59,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,account_money,0.98,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,bank transfer,81.73,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,170.88,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+NULL,MLM,debit card,45.92,1,Rej. by User Error,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,tc mp,114.46,1,Rej. by Bank Other,Repeat Buyer,NEW,active_buyer_mid,ultra_high_spender
+May,MLM,debit card,65.88,1,Rej. by User Error,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+May,MLM,credit card,289.07,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,high_spender
+April,MLM,account_money,07.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,debit card,23.56,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,digital_currency,125.61,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,19.02,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,credit card,174.18,1,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,tc mp,85.52,2,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,account_money,12.18,1,Approved,Repeat Buyer,CORE,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,52.6,1,Approved,New Buyer,NEW,onboarding,mid_low_spender
+April,MLM,credit card,21.64,1,Insufficient Amount,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,203.56,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+NULL,MLM,account_money,27.59,1,Approved,Repeat Buyer,POWER USER,active_buyer_low,mid_low_spender
+May,MLM,digital_currency,17.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,debit card,16.7,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_spender
+May,MLM,account_money,20.85,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+April,MLM,credit card,89.06,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,tc mp,20.3,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,digital_currency,48.8,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,digital_currency,65.57,1,Approved,Repeat Buyer,CASUAL,active_buyer_low,mid_low_spender
+April,MLM,debit card,38.06,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_spender
+April,MLM,account_money,41.68,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,account_money,12.71,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,digital_currency,20.43,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+May,MLM,debit card,24.45,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+April,MLM,ticket,181.59,1,Cancelled,New Buyer,,never_buyer,non_spender
+May,MLM,credit card,54.43,2,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,account_money,17.72,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,61.41,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,ticket,13.56,1,Approved,New Buyer,NEW,onboarding,high_spender
+April,MLM,credit card,21.09,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,9.96,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,account_money,19.71,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,31.04,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,tc mp,515.84,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,credit card,113.22,2,Approved,Repeat Buyer,NEW,active_buyer_mid,high_spender
+May,MLM,account_money,37.8,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,ticket,28.98,1,Cancelled,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,debit card,45.09,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,credit card,8.87,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,21.34,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+NULL,MLM,debit card,25.61,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,credit card,13.81,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+May,MLM,digital_currency,16.49,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,account_money,15.72,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_low_spender
+NULL,MLM,debit card,20.58,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+April,MLM,credit card,163.35,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+April,MLM,credit card,84.18,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,digital_currency,39.67,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+April,MLM,account_money,24.9,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,debit card,47.85,1,Approved,Repeat Buyer,CORE,active_buyer_low,mid_spender
+May,MLM,credit card,61.18,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,71.22,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,ticket,35.78,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,22.74,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,ticket,20.6,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,58.99,2,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLM,credit card,33.99,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+April,MLM,credit card,31.57,2,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+NULL,MLM,credit card,317.77,1,Insufficient Amount,Repeat Buyer,CASUAL,active_buyer_mid,ultra_high_spender
+April,MLM,tc mp,19.96,2,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,21.46,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,ultra_high_spender
+April,MLM,debit card,44.78,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,debit card,23.38,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,30.53,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,credit card,359.71,2,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,debit card,290.33,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,credit card,452.94,2,Approved,Repeat Buyer,NEW,active_buyer_low,high_spender
+May,MLM,credit card,85.58,2,Approved,Repeat Buyer,NEW,onboarding,ultra_high_spender
+April,MLM,debit card,23.75,1,Approved,New Buyer,NEW,active_buyer_low,low_spender
+May,MLM,ticket,67.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,23.86,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,80.01,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,20.66,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+May,MLM,digital_currency,11.11,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_spender
+May,MLM,ticket,6.93,1,Cancelled,Repeat Buyer,NEW,active_buyer_low,low_spender
+May,MLM,bank transfer,17.29,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+April,MLM,tc mp,96.58,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,account_money,19.29,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_high_spender
+April,MLM,debit card,54.99,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,debit card,27.96,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,7.46,1,Approved,New Buyer,NEW,onboarding,low_spender
+May,MLM,account_money,5.31,1,Cancelled,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,debit card,79.52,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,credit card,65.03,1,Approved,Repeat Buyer,CASUAL,active_buyer_mid,mid_spender
+May,MLM,credit card,126.43,2,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_high_spender
+May,MLM,credit card,67.36,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+April,MLM,debit card,19.93,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+NULL,MLM,debit card,16.23,1,Approved,Repeat Buyer,NEW,active_buyer_low,low_spender
+April,MLM,ticket,73.38,1,Approved,New Buyer,CORE,onboarding,mid_high_spender
+NULL,MLM,credit card,141.8,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,debit card,15.63,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,credit card,34.54,1,Rej. by PF,New Buyer,NEW,active_buyer_low,mid_low_spender
+May,MLM,credit card,37.64,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,bank transfer,26.8,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_low_spender
+NULL,MLM,credit card,75.17,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+May,MLM,credit card,28.72,1,Approved,Repeat Buyer,NEW,active_buyer_high,mid_high_spender
+April,MLM,debit card,203.74,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,account_money,2.87,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,debit card,14.72,1,Approved,Repeat Buyer,CORE,active_buyer_high,ultra_high_spender
+May,MLM,credit card,51.46,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,account_money,16.95,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+May,MLM,digital_currency,12.71,1,Approved,Repeat Buyer,CORE,active_buyer_high,high_spender
+May,MLM,debit card,08.05,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+April,MLM,debit card,58.22,1,Approved,Repeat Buyer,NEW,onboarding,ultra_high_spender
+NULL,MLM,credit card,27.84,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,ticket,276.67,1,Approved,New Buyer,NEW,onboarding,ultra_high_spender
+NULL,MLM,account_money,38.57,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_high_spender
+May,MLM,account_money,7.97,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+NULL,MLM,tc mp,42.99,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+NULL,MLM,digital_currency,22.52,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,high_spender
+May,MLM,ticket,20.23,1,Cancelled,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+April,MLM,tc mp,468.66,1,Approved,Repeat Buyer,CASUAL,active_buyer_high,high_spender
+May,MLM,debit card,29.82,1,Approved,Repeat Buyer,NEW,active_buyer_high,high_spender
+NULL,MLM,credit card,35.94,1,Rej. by Bank Other,Repeat Buyer,CORE,active_buyer_high,high_spender
+NULL,MLM,account_money,27.21,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,ultra_high_spender
+April,MLM,credit card,79.31,1,Approved,Repeat Buyer,NEW,active_buyer_high,ultra_high_spender
+May,MLM,account_money,43.2,1,Approved,Repeat Buyer,POWER USER,active_buyer_high,mid_high_spender
+May,MLM,credit card,44.57,1,Approved,Repeat Buyer,NEW,active_buyer_low,mid_low_spender
+April,MLM,debit card,14.83,1,Approved,Repeat Buyer,NEW,active_buyer_mid,mid_spender
+May,MLM,debit card,32.91,1,Approved,Repeat Buyer,CORE,active_buyer_mid,mid_spender
+April,MLM,ticket,22.03,1,Approved,Repeat Buyer,NEW,onboarding,high_spender
+May,MLM,debit card,13.79,1,Approved,Repeat Buyer,POWER USER,active_buyer_mid,mid_spender
+May,MLU,credit card,95.59,1,Approved,Repeat Buyer,,active_buyer_mid,mid_spender
+May,MLU,debit card,27.62,1,Approved,Repeat Buyer,,active_buyer_mid,mid_low_spender
+NULL,MLU,debit card,23.74,1,Approved,Repeat Buyer,,active_buyer_high,high_spender
+May,MLU,credit card,35.72,1,Approved,Repeat Buyer,,active_buyer_high,mid_high_spender
+April,MLU,account_money,8.41,1,Approved,Repeat Buyer,,active_buyer_high,ultra_high_spender
+April,MLU,credit card,84.79,1,Approved,Repeat Buyer,,active_buyer_mid,mid_spender
+April,MPE,atm,38.18,1,Cancelled,New Buyer,,,
+April,MPE,account_money,39.94,1,Approved,Repeat Buyer,,,
+April,MPE,credit card,70.43,1,Approved,Repeat Buyer,,,
+May,MPE,atm,29.44,1,Cancelled,Repeat Buyer,,,
+April,MPE,atm,25.44,1,Cancelled,New Buyer,,,
