@@ -300,7 +300,7 @@ if eco_data:
 else:
     st.info("No hay datos disponibles para medios ecosistémicos")
 
-st.divider()
+#st.divider()
 
 # Sección 3: Análisis de Rechazos
 st.subheader("❌ Análisis de Rechazos")
@@ -328,6 +328,7 @@ if not rejected_df.empty:
         rechazos_df = pd.DataFrame(rechazos_data)
         rechazos_df['Actual_num'] = rechazos_df[f'{mes_actual.capitalize()} (%)'].str.replace('%', '').astype(float)
         rechazos_df = rechazos_df.sort_values('Actual_num', ascending=False).reset_index(drop=True)
+        rechazos_df = rechazos_df.head(5)  # Mostrar solo el top 5 de mayo
         rechazos_df = rechazos_df.drop(columns=['Actual_num'])
         def highlight_variacion(val):
             try:
@@ -353,9 +354,11 @@ if not rejected_df.empty:
 else:
     st.info("No hay rechazos registrados en el período seleccionado")
 
+    
+
 st.subheader("📊 Status de Compras No Aprobadas")
 
-not_approved_df = filtered_df[(filtered_df['status'] != 'approved') & (filtered_df['status'] != 'pending')]
+not_approved_df = filtered_df[(filtered_df['status'] != 'Approved') & (filtered_df['status'] != 'Pending')]
 
 if not not_approved_df.empty:
     # Gráfico 1: Distribución por Status
